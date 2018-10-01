@@ -1,0 +1,2490 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "42dd5b98abcadf57f3bfd555e57e04c7",
+        "description": "Plugin dev-404-page",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fb5dde499abaa1752380c5ecc33e6ac8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin load-babel-config": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "Plugin load-babel-config",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3655a3b2b592295ac056bad8c2a6890e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "12b08717c5d89f6c4d09db620d0f4bdb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9c4a4ed8f9aa9998f00fe6fb2173df7c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "730855695f8855a9101bdc574b55d3aa",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "89933ed3293656865429b38824185b26",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onPrefetchPathname",
+        "onServiceWorkerActive"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.4.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-beta"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fb29e7fa9fbcbab68df52d700338a2bc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.4",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "70c1ed7557545a35e2c04b5489d7a345",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-emotion": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-plugin-emotion",
+      "id": "Plugin gatsby-plugin-emotion",
+      "name": "gatsby-plugin-emotion",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-plugin-emotion",
+      "packageJson": {
+        "name": "gatsby-plugin-emotion",
+        "description": "Gatsby plugin to add support for Emotion",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "emotion",
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Tegan Churchill",
+          "email": "churchill.tegan@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "emotion",
+            "version": "7 || 8 || 9"
+          },
+          {
+            "name": "emotion-server",
+            "version": "7 || 8 || 9"
+          },
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e0c7ac88387443fc191e61b4993092c1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "2.2.0",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography.js"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "2.2.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1 || ^1.0.0-alpha.0"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0 || ^1.0.0-alpha.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4647c97b67b28a45f4aafc0f39b7b474",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "src",
+        "path": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.1",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9b69fe3602751aa28aa3c6f52312b6a8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "fb9d889a6eac73a4fb135c94bf732c30",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush",
+      "packageJson": {
+        "name": "The-Mush",
+        "description": "A soft Technical blog",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Simon Xu <simjxu@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "emotion",
+            "version": "^9.2.10"
+          },
+          {
+            "name": "emotion-server",
+            "version": "^9.2.10"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "gatsby-plugin-emotion",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "gatsby-remark-highlights",
+            "version": "^1.3.4"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.4"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.9.3"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-emotion",
+            "version": "^9.2.10"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.13"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.17"
+          },
+          {
+            "name": "typography-theme-kirkham",
+            "version": "^0.16.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.14.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "65939f7c56220ad0f1d7dc76063bb793",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-page-creator": {
+      "resolve": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-plugin-page-creator",
+      "id": "Plugin gatsby-plugin-page-creator",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/simon/Projects/Github-simjxu/gatsby-themush/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "21ad431e05b503475efb74b2a446b887",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "The Mush"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-10-01T00:15:09.842Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7c5f700f09808a17635ab90e6f8e8cf1",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "fdd742cb-3028-5139-b42a-204af55e82b6": {
+      "id": "fdd742cb-3028-5139-b42a-204af55e82b6",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cb8a85d2e7ba945c7eb5c3ab81563117",
+        "type": "Directory",
+        "description": "Directory \"src\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-09-30T23:45:22.679Z",
+      "accessTime": "2018-10-01T00:14:25.677Z",
+      "changeTime": "2018-10-01T00:14:25.577Z",
+      "birthTime": "2018-10-01T00:14:25.577Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush",
+      "base": "src",
+      "ext": "",
+      "name": "src",
+      "relativeDirectory": "..",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 7,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1088447,
+      "blocks": 8,
+      "atimeMs": 1538352865676.7717,
+      "mtimeMs": 1538351122679.134,
+      "ctimeMs": 1538352865576.7961,
+      "birthtimeMs": 1538352865576.7961,
+      "atime": "2018-10-01T00:14:25.677Z",
+      "mtime": "2018-09-30T23:45:22.679Z",
+      "ctime": "2018-10-01T00:14:25.577Z",
+      "birthtime": "2018-10-01T00:14:25.577Z"
+    },
+    "e71c1983-2d30-533a-a163-2565ae7b405f": {
+      "id": "e71c1983-2d30-533a-a163-2565ae7b405f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2e55ba06a31b6f43f17f45ac4706bdc8",
+        "type": "Directory",
+        "description": "Directory \"src/components\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/components",
+      "relativePath": "components",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-09-24T19:55:43.111Z",
+      "accessTime": "2018-10-01T00:15:12.470Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src",
+      "base": "components",
+      "ext": "",
+      "name": "components",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1088449,
+      "blocks": 8,
+      "atimeMs": 1538352912470.3494,
+      "mtimeMs": 1537818943110.586,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:15:12.470Z",
+      "mtime": "2018-09-24T19:55:43.111Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "6da56e37-38b0-5010-898a-bd1e25194524": {
+      "id": "6da56e37-38b0-5010-898a-bd1e25194524",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bc67bee28174cdb8e0159fc13a85b40b",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/images",
+      "relativePath": "images",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-09-24T17:49:17.488Z",
+      "accessTime": "2018-10-01T00:15:12.470Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1088450,
+      "blocks": 8,
+      "atimeMs": 1538352912470.3494,
+      "mtimeMs": 1537811357488.394,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:15:12.470Z",
+      "mtime": "2018-09-24T17:49:17.488Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "6f216349-468f-589e-a0d3-bd411f0b043f": {
+      "id": "6f216349-468f-589e-a0d3-bd411f0b043f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b65b944a7c75584f2f93d39ead6d915a",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
+      "relativePath": "pages",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-09-30T22:47:18.810Z",
+      "accessTime": "2018-10-01T00:15:12.470Z",
+      "changeTime": "2018-10-01T00:10:24.838Z",
+      "birthTime": "2018-10-01T00:10:24.838Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 4,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1088451,
+      "blocks": 8,
+      "atimeMs": 1538352912470.3494,
+      "mtimeMs": 1538347638809.885,
+      "ctimeMs": 1538352624837.8586,
+      "birthtimeMs": 1538352624837.8586,
+      "atime": "2018-10-01T00:15:12.470Z",
+      "mtime": "2018-09-30T22:47:18.810Z",
+      "ctime": "2018-10-01T00:10:24.838Z",
+      "birthtime": "2018-10-01T00:10:24.838Z"
+    },
+    "03b04410-7ffc-5d34-9a8a-140afa636735": {
+      "id": "03b04410-7ffc-5d34-9a8a-140afa636735",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "125dbd9df6dd9414457a064b59307a5b",
+        "type": "Directory",
+        "description": "Directory \"src/templates\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates",
+      "relativePath": "templates",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-09-30T22:58:32.836Z",
+      "accessTime": "2018-10-01T00:15:12.470Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src",
+      "base": "templates",
+      "ext": "",
+      "name": "templates",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1088448,
+      "blocks": 8,
+      "atimeMs": 1538352912470.3494,
+      "mtimeMs": 1538348312835.905,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:15:12.470Z",
+      "mtime": "2018-09-30T22:58:32.836Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "86225f1f-6687-5e5e-b47a-727e822ea885": {
+      "id": "86225f1f-6687-5e5e-b47a-727e822ea885",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b9996ead89ab2c43e3eb2a34b260e914",
+        "type": "Directory",
+        "description": "Directory \"src/utils\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/utils",
+      "relativePath": "utils",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-09-24T23:50:19.318Z",
+      "accessTime": "2018-10-01T00:15:12.470Z",
+      "changeTime": "2018-10-01T00:10:24.838Z",
+      "birthTime": "2018-10-01T00:10:24.838Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src",
+      "base": "utils",
+      "ext": "",
+      "name": "utils",
+      "relativeDirectory": "",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1088454,
+      "blocks": 8,
+      "atimeMs": 1538352912470.3494,
+      "mtimeMs": 1537833019318.051,
+      "ctimeMs": 1538352624837.8586,
+      "birthtimeMs": 1538352624837.8586,
+      "atime": "2018-10-01T00:15:12.470Z",
+      "mtime": "2018-09-24T23:50:19.318Z",
+      "ctime": "2018-10-01T00:10:24.838Z",
+      "birthtime": "2018-10-01T00:10:24.838Z"
+    },
+    "8221ab0e-20cb-563a-840a-83e01eb586de": {
+      "id": "8221ab0e-20cb-563a-840a-83e01eb586de",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dbe8f120ccac77efdda745fd2a806366",
+        "type": "Directory",
+        "description": "Directory \"src/pages/posts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts",
+      "relativePath": "pages/posts",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-09-30T22:47:18.810Z",
+      "accessTime": "2018-10-01T00:15:12.474Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "pages",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1088452,
+      "blocks": 8,
+      "atimeMs": 1538352912474.3486,
+      "mtimeMs": 1538347638809.885,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:15:12.474Z",
+      "mtime": "2018-09-30T22:47:18.810Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "a72f7750-b0af-5809-87d8-7e9675551af5": {
+      "id": "a72f7750-b0af-5809-87d8-7e9675551af5",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2bef10d173e9ea7fe89b126974e5001d",
+        "type": "Directory",
+        "description": "Directory \"src/pages/projects\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/projects",
+      "relativePath": "pages/projects",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-09-30T05:11:13.468Z",
+      "accessTime": "2018-10-01T00:15:12.474Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
+      "base": "projects",
+      "ext": "",
+      "name": "projects",
+      "relativeDirectory": "pages",
+      "dev": 2053,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1088453,
+      "blocks": 8,
+      "atimeMs": 1538352912474.3486,
+      "mtimeMs": 1538284273467.649,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:15:12.474Z",
+      "mtime": "2018-09-30T05:11:13.468Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "0fcd33dc-c5b2-5aa8-b750-b95092c3fd3c": {
+      "id": "0fcd33dc-c5b2-5aa8-b750-b95092c3fd3c",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "418c912ddcbbe178ccac3b9d99889f3d",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/components/header.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/components/header.js",
+      "relativePath": "components/header.js",
+      "extension": "js",
+      "size": 1108,
+      "prettySize": "1.11 kB",
+      "modifiedTime": "2018-09-26T18:45:33.323Z",
+      "accessTime": "2018-10-01T00:10:24.834Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/components",
+      "base": "header.js",
+      "ext": ".js",
+      "name": "header",
+      "relativeDirectory": "components",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087071,
+      "blocks": 8,
+      "atimeMs": 1538352624833.858,
+      "mtimeMs": 1537987533323.273,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:10:24.834Z",
+      "mtime": "2018-09-26T18:45:33.323Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "9fbc2d18-d9a0-5a7c-870f-b569f97fe6c3": {
+      "id": "9fbc2d18-d9a0-5a7c-870f-b569f97fe6c3",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2675ba6bc7aa0021c73c84e9ad2d98b3",
+        "type": "File",
+        "mediaType": "text/css",
+        "description": "File \"src/components/layout.css\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/components/layout.css",
+      "relativePath": "components/layout.css",
+      "extension": "css",
+      "size": 11319,
+      "prettySize": "11.3 kB",
+      "modifiedTime": "2018-09-30T00:09:38.521Z",
+      "accessTime": "2018-10-01T00:10:24.834Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/components",
+      "base": "layout.css",
+      "ext": ".css",
+      "name": "layout",
+      "relativeDirectory": "components",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087072,
+      "blocks": 24,
+      "atimeMs": 1538352624833.858,
+      "mtimeMs": 1538266178521.016,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:10:24.834Z",
+      "mtime": "2018-09-30T00:09:38.521Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "38b1c644-0491-593b-855a-161e89d08c59": {
+      "id": "38b1c644-0491-593b-855a-161e89d08c59",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5c49ecb35304362aea13da67f7796f10",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/components/layout.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/components/layout.js",
+      "relativePath": "components/layout.js",
+      "extension": "js",
+      "size": 1091,
+      "prettySize": "1.09 kB",
+      "modifiedTime": "2018-09-30T22:29:49.329Z",
+      "accessTime": "2018-10-01T00:10:24.834Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/components",
+      "base": "layout.js",
+      "ext": ".js",
+      "name": "layout",
+      "relativeDirectory": "components",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087073,
+      "blocks": 8,
+      "atimeMs": 1538352624833.858,
+      "mtimeMs": 1538346589328.623,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:10:24.834Z",
+      "mtime": "2018-09-30T22:29:49.329Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "d2d5df62-0157-5ad6-9bdf-1bc11bc888f7": {
+      "id": "d2d5df62-0157-5ad6-9bdf-1bc11bc888f7",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b846880926b28dce7a1de926c4780858",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/components/pagetitle.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/components/pagetitle.js",
+      "relativePath": "components/pagetitle.js",
+      "extension": "js",
+      "size": 77,
+      "prettySize": "77 B",
+      "modifiedTime": "2018-09-24T20:09:19.292Z",
+      "accessTime": "2018-10-01T00:10:24.834Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/components",
+      "base": "pagetitle.js",
+      "ext": ".js",
+      "name": "pagetitle",
+      "relativeDirectory": "components",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087074,
+      "blocks": 8,
+      "atimeMs": 1538352624833.858,
+      "mtimeMs": 1537819759292.483,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:10:24.834Z",
+      "mtime": "2018-09-24T20:09:19.292Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "3be0dc1d-9238-5070-b392-34847d2dfb91": {
+      "id": "3be0dc1d-9238-5070-b392-34847d2dfb91",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/images/gatsby-icon.png",
+      "relativePath": "images/gatsby-icon.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2018-09-24T17:49:17.488Z",
+      "accessTime": "2018-10-01T00:10:24.834Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/images",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "images",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087075,
+      "blocks": 48,
+      "atimeMs": 1538352624833.858,
+      "mtimeMs": 1537811357488.394,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:10:24.834Z",
+      "mtime": "2018-09-24T17:49:17.488Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "1e34013c-ee39-5101-935a-751650d22ba9": {
+      "id": "1e34013c-ee39-5101-935a-751650d22ba9",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6c9ae5e9309608997059e912d6376e20",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/404.js",
+      "relativePath": "pages/404.js",
+      "extension": "js",
+      "size": 246,
+      "prettySize": "246 B",
+      "modifiedTime": "2018-09-24T17:49:17.488Z",
+      "accessTime": "2018-10-01T00:10:24.838Z",
+      "changeTime": "2018-10-01T00:10:24.838Z",
+      "birthTime": "2018-10-01T00:10:24.838Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "pages",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087081,
+      "blocks": 8,
+      "atimeMs": 1538352624837.858,
+      "mtimeMs": 1537811357488.394,
+      "ctimeMs": 1538352624837.8586,
+      "birthtimeMs": 1538352624837.8586,
+      "atime": "2018-10-01T00:10:24.838Z",
+      "mtime": "2018-09-24T17:49:17.488Z",
+      "ctime": "2018-10-01T00:10:24.838Z",
+      "birthtime": "2018-10-01T00:10:24.838Z"
+    },
+    "52b730a7-0033-58c4-aeba-67028aea715f": {
+      "id": "52b730a7-0033-58c4-aeba-67028aea715f",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "18c43e586c54147270a0d8561905163d",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/about.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about.js",
+      "relativePath": "pages/about.js",
+      "extension": "js",
+      "size": 368,
+      "prettySize": "368 B",
+      "modifiedTime": "2018-09-24T23:49:16.062Z",
+      "accessTime": "2018-10-01T00:10:24.838Z",
+      "changeTime": "2018-10-01T00:10:24.838Z",
+      "birthTime": "2018-10-01T00:10:24.838Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "pages",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087080,
+      "blocks": 8,
+      "atimeMs": 1538352624837.858,
+      "mtimeMs": 1537832956061.999,
+      "ctimeMs": 1538352624837.8586,
+      "birthtimeMs": 1538352624837.8586,
+      "atime": "2018-10-01T00:10:24.838Z",
+      "mtime": "2018-09-24T23:49:16.062Z",
+      "ctime": "2018-10-01T00:10:24.838Z",
+      "birthtime": "2018-10-01T00:10:24.838Z"
+    },
+    "ad537cf8-2077-53b0-b592-63673baddcd7": {
+      "id": "ad537cf8-2077-53b0-b592-63673baddcd7",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d0feeb6eabbdd18f3dcc57fd7ef41ab0",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/contact.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/contact.js",
+      "relativePath": "pages/contact.js",
+      "extension": "js",
+      "size": 457,
+      "prettySize": "457 B",
+      "modifiedTime": "2018-09-24T23:40:45.500Z",
+      "accessTime": "2018-10-01T00:10:24.838Z",
+      "changeTime": "2018-10-01T00:10:24.838Z",
+      "birthTime": "2018-10-01T00:10:24.838Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
+      "base": "contact.js",
+      "ext": ".js",
+      "name": "contact",
+      "relativeDirectory": "pages",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087083,
+      "blocks": 8,
+      "atimeMs": 1538352624837.858,
+      "mtimeMs": 1537832445499.858,
+      "ctimeMs": 1538352624837.8586,
+      "birthtimeMs": 1538352624837.8586,
+      "atime": "2018-10-01T00:10:24.838Z",
+      "mtime": "2018-09-24T23:40:45.500Z",
+      "ctime": "2018-10-01T00:10:24.838Z",
+      "birthtime": "2018-10-01T00:10:24.838Z"
+    },
+    "e133b3f5-e5bd-5162-9f56-959240beca68": {
+      "id": "e133b3f5-e5bd-5162-9f56-959240beca68",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5ae9529554ad43729083410264001cc2",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/index.js",
+      "relativePath": "pages/index.js",
+      "extension": "js",
+      "size": 1829,
+      "prettySize": "1.83 kB",
+      "modifiedTime": "2018-09-30T23:11:49.945Z",
+      "accessTime": "2018-10-01T00:10:24.838Z",
+      "changeTime": "2018-10-01T00:10:24.838Z",
+      "birthTime": "2018-10-01T00:10:24.838Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "pages",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087082,
+      "blocks": 8,
+      "atimeMs": 1538352624837.858,
+      "mtimeMs": 1538349109944.651,
+      "ctimeMs": 1538352624837.8586,
+      "birthtimeMs": 1538352624837.8586,
+      "atime": "2018-10-01T00:10:24.838Z",
+      "mtime": "2018-09-30T23:11:49.945Z",
+      "ctime": "2018-10-01T00:10:24.838Z",
+      "birthtime": "2018-10-01T00:10:24.838Z"
+    },
+    "169fe2ea-b5a8-5535-bf44-065bde59a7df": {
+      "id": "169fe2ea-b5a8-5535-bf44-065bde59a7df",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "87990a6b907c0b5c1c612bfe629a9fb8",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/my-files.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/my-files.js",
+      "relativePath": "pages/my-files.js",
+      "extension": "js",
+      "size": 1080,
+      "prettySize": "1.08 kB",
+      "modifiedTime": "2018-09-30T05:23:42.958Z",
+      "accessTime": "2018-10-01T00:10:24.838Z",
+      "changeTime": "2018-10-01T00:10:24.838Z",
+      "birthTime": "2018-10-01T00:10:24.838Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
+      "base": "my-files.js",
+      "ext": ".js",
+      "name": "my-files",
+      "relativeDirectory": "pages",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087084,
+      "blocks": 8,
+      "atimeMs": 1538352624837.858,
+      "mtimeMs": 1538285022957.513,
+      "ctimeMs": 1538352624837.8586,
+      "birthtimeMs": 1538352624837.8586,
+      "atime": "2018-10-01T00:10:24.838Z",
+      "mtime": "2018-09-30T05:23:42.958Z",
+      "ctime": "2018-10-01T00:10:24.838Z",
+      "birthtime": "2018-10-01T00:10:24.838Z"
+    },
+    "27121b52-957e-5162-84cb-19ea11af0686": {
+      "id": "27121b52-957e-5162-84cb-19ea11af0686",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "32d21519c2f237f098dd5a0cf112dadf",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/utils/typography.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/utils/typography.js",
+      "relativePath": "utils/typography.js",
+      "extension": "js",
+      "size": 243,
+      "prettySize": "243 B",
+      "modifiedTime": "2018-09-30T22:28:57.299Z",
+      "accessTime": "2018-10-01T00:10:24.838Z",
+      "changeTime": "2018-10-01T00:10:24.838Z",
+      "birthTime": "2018-10-01T00:10:24.838Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/utils",
+      "base": "typography.js",
+      "ext": ".js",
+      "name": "typography",
+      "relativeDirectory": "utils",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087085,
+      "blocks": 8,
+      "atimeMs": 1538352624837.858,
+      "mtimeMs": 1538346537299.063,
+      "ctimeMs": 1538352624837.8586,
+      "birthtimeMs": 1538352624837.8586,
+      "atime": "2018-10-01T00:10:24.838Z",
+      "mtime": "2018-09-30T22:28:57.299Z",
+      "ctime": "2018-10-01T00:10:24.838Z",
+      "birthtime": "2018-10-01T00:10:24.838Z"
+    },
+    "2da01f0d-4f28-5f90-934f-505e767af8a4": {
+      "id": "2da01f0d-4f28-5f90-934f-505e767af8a4",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "56fc882f1e44837aa373666a9f6c7ba5",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/templates/blog-post.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "relativePath": "templates/blog-post.js",
+      "extension": "js",
+      "size": 519,
+      "prettySize": "519 B",
+      "modifiedTime": "2018-09-30T23:02:49.422Z",
+      "accessTime": "2018-10-01T00:10:24.834Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates",
+      "base": "blog-post.js",
+      "ext": ".js",
+      "name": "blog-post",
+      "relativeDirectory": "templates",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087070,
+      "blocks": 8,
+      "atimeMs": 1538352624833.858,
+      "mtimeMs": 1538348569421.91,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:10:24.834Z",
+      "mtime": "2018-09-30T23:02:49.422Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "b1b097a5-7589-50ca-83bd-82c6396a2ae9": {
+      "id": "b1b097a5-7589-50ca-83bd-82c6396a2ae9",
+      "children": [
+        "e88ce11d-ab27-5cf0-86e3-9959a8481b98"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "065d4fb3aadd4b7bf0e5ce541a505335",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/posts/goingclimbing.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/goingclimbing.md",
+      "relativePath": "pages/posts/goingclimbing.md",
+      "extension": "md",
+      "size": 1174,
+      "prettySize": "1.17 kB",
+      "modifiedTime": "2018-09-30T22:47:23.166Z",
+      "accessTime": "2018-10-01T00:10:24.834Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts",
+      "base": "goingclimbing.md",
+      "ext": ".md",
+      "name": "goingclimbing",
+      "relativeDirectory": "pages/posts",
+      "dev": 2053,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087076,
+      "blocks": 8,
+      "atimeMs": 1538352624833.858,
+      "mtimeMs": 1538347643166.051,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:10:24.834Z",
+      "mtime": "2018-09-30T22:47:23.166Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "6060571a-a7fc-58cd-975d-129ec939c8e9": {
+      "id": "6060571a-a7fc-58cd-975d-129ec939c8e9",
+      "children": [
+        "f9c168c6-1257-5b9b-ae49-5d85d762c345"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "459c56d5af5ce9ec5d385c9853f2da64",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/posts/googlecomputeengine.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/googlecomputeengine.md",
+      "relativePath": "pages/posts/googlecomputeengine.md",
+      "extension": "md",
+      "size": 3355,
+      "prettySize": "3.35 kB",
+      "modifiedTime": "2018-09-30T22:47:18.815Z",
+      "accessTime": "2018-10-01T00:10:24.834Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts",
+      "base": "googlecomputeengine.md",
+      "ext": ".md",
+      "name": "googlecomputeengine",
+      "relativeDirectory": "pages/posts",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087079,
+      "blocks": 8,
+      "atimeMs": 1538352624833.858,
+      "mtimeMs": 1538347638815,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:10:24.834Z",
+      "mtime": "2018-09-30T22:47:18.815Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "d44cd04b-1e44-5b2e-ba77-39b01c73bb2f": {
+      "id": "d44cd04b-1e44-5b2e-ba77-39b01c73bb2f",
+      "children": [
+        "830400f9-c36e-549d-be2d-5a45383becc1"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5589749ae3cba08127438a75746c2f4d",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/posts/mfgapp.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/mfgapp.md",
+      "relativePath": "pages/posts/mfgapp.md",
+      "extension": "md",
+      "size": 2258,
+      "prettySize": "2.26 kB",
+      "modifiedTime": "2018-09-30T22:47:18.815Z",
+      "accessTime": "2018-10-01T00:10:24.834Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts",
+      "base": "mfgapp.md",
+      "ext": ".md",
+      "name": "mfgapp",
+      "relativeDirectory": "pages/posts",
+      "dev": 2053,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087077,
+      "blocks": 8,
+      "atimeMs": 1538352624833.858,
+      "mtimeMs": 1538347638815,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:10:24.834Z",
+      "mtime": "2018-09-30T22:47:18.815Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "f3d29bf4-f4d8-5bbd-978e-4f944102d62f": {
+      "id": "f3d29bf4-f4d8-5bbd-978e-4f944102d62f",
+      "children": [
+        "5b7f9e5c-d310-5f8d-b38e-6a7d084a1058"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fb65fd70fbda0ab1909a5ee956ac01a8",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/posts/slackdeliverytracker.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/slackdeliverytracker.md",
+      "relativePath": "pages/posts/slackdeliverytracker.md",
+      "extension": "md",
+      "size": 6356,
+      "prettySize": "6.36 kB",
+      "modifiedTime": "2018-09-30T23:25:43.238Z",
+      "accessTime": "2018-10-01T00:10:24.834Z",
+      "changeTime": "2018-10-01T00:10:24.834Z",
+      "birthTime": "2018-10-01T00:10:24.834Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts",
+      "base": "slackdeliverytracker.md",
+      "ext": ".md",
+      "name": "slackdeliverytracker",
+      "relativeDirectory": "pages/posts",
+      "dev": 2053,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1087078,
+      "blocks": 16,
+      "atimeMs": 1538352624833.858,
+      "mtimeMs": 1538349943238.136,
+      "ctimeMs": 1538352624833.8584,
+      "birthtimeMs": 1538352624833.8584,
+      "atime": "2018-10-01T00:10:24.834Z",
+      "mtime": "2018-09-30T23:25:43.238Z",
+      "ctime": "2018-10-01T00:10:24.834Z",
+      "birthtime": "2018-10-01T00:10:24.834Z"
+    },
+    "e88ce11d-ab27-5cf0-86e3-9959a8481b98": {
+      "id": "e88ce11d-ab27-5cf0-86e3-9959a8481b98",
+      "children": [],
+      "parent": "b1b097a5-7589-50ca-83bd-82c6396a2ae9",
+      "internal": {
+        "content": "\nIt's good to start expectations low for the first post. Commitment is hard, and you never know if a blog will actually continue far past the first few posts. Anyway, this blog is intended to record me as I self-teach web development. Follow along if you're on the same page. Luckily, I'm not really starting from scratch, at this point I've been working for 8 years. 3 of those years I've spent working in IoT. I've developed tools in MATLAB, Python, LabVIEW, Squirrel/C, and also done a tiny bit of node development, mostly to create an endpoint for my Electric Imp module post requests. \n\nI used to focus primarily on hardware work, and my old blog talked nearly exclusively about digital signal processing (https://simonxu.wordpress.com/). I was also a lot less funny then. Now this will be my new blog. I'm using github pages with jekyll and I'm using a template someone else came up with (credit is on the bottom of the page).\n\nRecently, I decided that hardware is too hard, and thus begins my switch. No guarantees. I'm going rock climbing.\n\n~~~ js\nvar blog = require('persistence');\n~~~\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "d8d6666a5f9828e7105c89be35f82bf6",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Yeah I'm gonna go rock climbing",
+        "layout": "post",
+        "date": "2018-09-09",
+        "_PARENT": "b1b097a5-7589-50ca-83bd-82c6396a2ae9"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nIt's good to start expectations low for the first post. Commitment is hard, and you never know if a blog will actually continue far past the first few posts. Anyway, this blog is intended to record me as I self-teach web development. Follow along if you're on the same page. Luckily, I'm not really starting from scratch, at this point I've been working for 8 years. 3 of those years I've spent working in IoT. I've developed tools in MATLAB, Python, LabVIEW, Squirrel/C, and also done a tiny bit of node development, mostly to create an endpoint for my Electric Imp module post requests. \n\nI used to focus primarily on hardware work, and my old blog talked nearly exclusively about digital signal processing (https://simonxu.wordpress.com/). I was also a lot less funny then. Now this will be my new blog. I'm using github pages with jekyll and I'm using a template someone else came up with (credit is on the bottom of the page).\n\nRecently, I decided that hardware is too hard, and thus begins my switch. No guarantees. I'm going rock climbing.\n\n~~~ js\nvar blog = require('persistence');\n~~~\n",
+      "fileAbsolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/goingclimbing.md",
+      "fields": {
+        "slug": "/posts/goingclimbing/"
+      }
+    },
+    "f9c168c6-1257-5b9b-ae49-5d85d762c345": {
+      "id": "f9c168c6-1257-5b9b-ae49-5d85d762c345",
+      "children": [],
+      "parent": "6060571a-a7fc-58cd-975d-129ec939c8e9",
+      "internal": {
+        "content": "\nProbably the most familiar experience of a hardware startup is the lack of monetary resources (free lunches? no way!). And yet, we still want to be cutting edge with our machine learning techniques. Sometimes, doing a custom feature extraction from our datasets can take a lot of computing resources, taking up to 8 hours on a laptop running Linux (notice how I did not say a Macbook Pro). Thankfully, Big Brother Google wants to trickle down some benefits for the needy, and provides us with a Free Tier for a lot of there cloud platform modules. So, I decided to try this out.\n\nFirst, I just wrote a simple Python program (testscript.py) that takes more than just a second to run, by doing the forbidden: nested for loops, the Avada Kedavra of programming.\n\n~~~ python\nnumruns = 300\nprint(\"running\")\nhuge_array = [[[0.0 for i in range(numruns)] for j in range(numruns)] for k in range(numruns)]\ncounter = 0\nprint(\"starting loops\")\nfor i in range(numruns):\n    for j in range(numruns):\n        for k in range(numruns):\n            huge_array[i][j][k] = i+j+k\n            counter+=1\n            if counter%10000 == 0:\n                print(counter)\nprint(\"finished\")\n~~~\n\nThe first thing to do is to create a project on GCP (Google Cloud Platform) by going to console.cloud.google.com and clicking on \"Select a Project\". Once you have named your project, notice you can take advantage of $300 of free credits to play with (how generous!). Once you have made your project, you can click on \"Compute Engine\" on the left hand panel, and create an instance. As of the time this post was written, you can get a free f1-micro instance running on a virtual machine in the US. This f1-micro has 0.6GB of memory and 1vCPU.\n![gce-f1micro](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/gce-dashboard.jpg)\n\nAfter this instance is created, you can view your instance and also SSH into the instance. If you do this, then you can interact with this instance via a Debian Linux shell. To upload a file, you can click on the gearbox on the top right side to upload your python file. In my case, I am uploading a python 3 script called testscript.py, which I shared above. \n![gce-f1microShell](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/f1micro-SSHshell.jpg)\n\nAfter it is uploaded, you can run the file on the instance by first making it an executable with `chmod +x testscript.py`. `chmod` basically changes the mode and using the `+x` option makes it an executable. Then you can run `nohup` on the python script to get it running in the shell without requiring the shell to be open. Unfortunately, with the python script I shared, it gets killed after a few seconds:\n![gce-f1microKilled](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/f1micro-killed.jpg)\n\nTurns out free also means you can't just leave something running forever. If you check the nohup.out file using `cat nohup.out`, you can see that my script ended somewhere after iteration 523000. Probably exceeded the RAM available here. Probably the better thing to do is to take advantage of another free item, the 5GB of cloud storage. I'll try that next time.\n\nUseful references: https://cloud.google.com/free/docs/always-free-usage-limits\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "fcccc87c87f9cafb916bfab3943dc82f",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "How to run a Python Script on Google Compute Engine",
+        "layout": "post",
+        "date": "2018-09-19",
+        "_PARENT": "6060571a-a7fc-58cd-975d-129ec939c8e9"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nProbably the most familiar experience of a hardware startup is the lack of monetary resources (free lunches? no way!). And yet, we still want to be cutting edge with our machine learning techniques. Sometimes, doing a custom feature extraction from our datasets can take a lot of computing resources, taking up to 8 hours on a laptop running Linux (notice how I did not say a Macbook Pro). Thankfully, Big Brother Google wants to trickle down some benefits for the needy, and provides us with a Free Tier for a lot of there cloud platform modules. So, I decided to try this out.\n\nFirst, I just wrote a simple Python program (testscript.py) that takes more than just a second to run, by doing the forbidden: nested for loops, the Avada Kedavra of programming.\n\n~~~ python\nnumruns = 300\nprint(\"running\")\nhuge_array = [[[0.0 for i in range(numruns)] for j in range(numruns)] for k in range(numruns)]\ncounter = 0\nprint(\"starting loops\")\nfor i in range(numruns):\n    for j in range(numruns):\n        for k in range(numruns):\n            huge_array[i][j][k] = i+j+k\n            counter+=1\n            if counter%10000 == 0:\n                print(counter)\nprint(\"finished\")\n~~~\n\nThe first thing to do is to create a project on GCP (Google Cloud Platform) by going to console.cloud.google.com and clicking on \"Select a Project\". Once you have named your project, notice you can take advantage of $300 of free credits to play with (how generous!). Once you have made your project, you can click on \"Compute Engine\" on the left hand panel, and create an instance. As of the time this post was written, you can get a free f1-micro instance running on a virtual machine in the US. This f1-micro has 0.6GB of memory and 1vCPU.\n![gce-f1micro](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/gce-dashboard.jpg)\n\nAfter this instance is created, you can view your instance and also SSH into the instance. If you do this, then you can interact with this instance via a Debian Linux shell. To upload a file, you can click on the gearbox on the top right side to upload your python file. In my case, I am uploading a python 3 script called testscript.py, which I shared above. \n![gce-f1microShell](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/f1micro-SSHshell.jpg)\n\nAfter it is uploaded, you can run the file on the instance by first making it an executable with `chmod +x testscript.py`. `chmod` basically changes the mode and using the `+x` option makes it an executable. Then you can run `nohup` on the python script to get it running in the shell without requiring the shell to be open. Unfortunately, with the python script I shared, it gets killed after a few seconds:\n![gce-f1microKilled](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/f1micro-killed.jpg)\n\nTurns out free also means you can't just leave something running forever. If you check the nohup.out file using `cat nohup.out`, you can see that my script ended somewhere after iteration 523000. Probably exceeded the RAM available here. Probably the better thing to do is to take advantage of another free item, the 5GB of cloud storage. I'll try that next time.\n\nUseful references: https://cloud.google.com/free/docs/always-free-usage-limits\n",
+      "fileAbsolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/googlecomputeengine.md",
+      "fields": {
+        "slug": "/posts/googlecomputeengine/"
+      }
+    },
+    "830400f9-c36e-549d-be2d-5a45383becc1": {
+      "id": "830400f9-c36e-549d-be2d-5a45383becc1",
+      "children": [],
+      "parent": "d44cd04b-1e44-5b2e-ba77-39b01c73bb2f",
+      "internal": {
+        "content": "\nThe company I work for makes internet connected hardware for collecting machine data. So yes, this involves actually building a physical product that has to be constructed from solder, glue, and rhino tears. Because of this, we have to also build a software application that is able to test functionality of the device: a manufacturing webapp that runs on the cloud, collects functional test data, and stores serial numbers/calibration values on a Postgres database. Since this web application is not customer facing, it gets all the care, love, and attention of a donation request letter in your snail mail. \n\nAt the time this was built, the developers had experience developing in Python, and they chose to develop the frontend in Angular using Flask. Why they chose Flask over Django eludes me, but upon doing some research it seems like Flask has more of a minimalist/bare bones, add-functionality-as-you-need-it type of approach, while Django comes with the bells and whistles included. \n\nHere's everything I know about building this web application at the moment. There exists an index.html file in the app directory, and within that index.html file there are script src files which point to other angular source files which have too many lines of code for me to understand at the moment.\n\n~~~ html\n<script src=\"bower_components/jquery/dist/jquery.js\"></script>\n<script src=\"bower_components/angular/angular.js\"></script>\n<script src=\"bower_components/bootstrap/dist/js/bootstrap.js\"></script>\n~~~\n\nSince I have no real understanding of the architecture of the existing Angular/Flask web application right now, I'll go ahead and start from scratch, building the web application with React/NodeJS instead.\n\n1st step in getting familiar with React is to change this jekyll blog into a Gatsby blog: \n<a href=\"https://www.gatsbyjs.org/docs/deploy-gatsby/#github-pages\">https://www.gatsbyjs.org/docs/deploy-gatsby/#github-pages</a>\nThis static website generator uses React, Webpack, and GraphQL, all the popular kids at the pool right now. For those of you who are new to engineering: the most critical skill as an engineer is to be able to read other people's documentation.",
+        "type": "MarkdownRemark",
+        "contentDigest": "328e97a21ece4330c020cac4b15964b0",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Flask and Django - Python options",
+        "layout": "post",
+        "date": "2018-09-10",
+        "_PARENT": "d44cd04b-1e44-5b2e-ba77-39b01c73bb2f"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nThe company I work for makes internet connected hardware for collecting machine data. So yes, this involves actually building a physical product that has to be constructed from solder, glue, and rhino tears. Because of this, we have to also build a software application that is able to test functionality of the device: a manufacturing webapp that runs on the cloud, collects functional test data, and stores serial numbers/calibration values on a Postgres database. Since this web application is not customer facing, it gets all the care, love, and attention of a donation request letter in your snail mail. \n\nAt the time this was built, the developers had experience developing in Python, and they chose to develop the frontend in Angular using Flask. Why they chose Flask over Django eludes me, but upon doing some research it seems like Flask has more of a minimalist/bare bones, add-functionality-as-you-need-it type of approach, while Django comes with the bells and whistles included. \n\nHere's everything I know about building this web application at the moment. There exists an index.html file in the app directory, and within that index.html file there are script src files which point to other angular source files which have too many lines of code for me to understand at the moment.\n\n~~~ html\n<script src=\"bower_components/jquery/dist/jquery.js\"></script>\n<script src=\"bower_components/angular/angular.js\"></script>\n<script src=\"bower_components/bootstrap/dist/js/bootstrap.js\"></script>\n~~~\n\nSince I have no real understanding of the architecture of the existing Angular/Flask web application right now, I'll go ahead and start from scratch, building the web application with React/NodeJS instead.\n\n1st step in getting familiar with React is to change this jekyll blog into a Gatsby blog: \n<a href=\"https://www.gatsbyjs.org/docs/deploy-gatsby/#github-pages\">https://www.gatsbyjs.org/docs/deploy-gatsby/#github-pages</a>\nThis static website generator uses React, Webpack, and GraphQL, all the popular kids at the pool right now. For those of you who are new to engineering: the most critical skill as an engineer is to be able to read other people's documentation.",
+      "fileAbsolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/mfgapp.md",
+      "fields": {
+        "slug": "/posts/mfgapp/"
+      }
+    },
+    "5b7f9e5c-d310-5f8d-b38e-6a7d084a1058": {
+      "id": "5b7f9e5c-d310-5f8d-b38e-6a7d084a1058",
+      "children": [],
+      "parent": "f3d29bf4-f4d8-5bbd-978e-4f944102d62f",
+      "internal": {
+        "content": "\nSince I work for an IIoT combined hardware/sofware company, we often receive packages through the mail. This includes anything from dev boards to etched plastic enclosures. Now that we receive packages so often, it is not very easy to keep track of when a package is supposed to be arriving, and we don't always get notifications when items get held up in customs or get lost in the process. Once again APIs are here to save the day.\n\nIn the ideal scenario, we could create a Chrome extension with a trained machine learning algorithm that can detect whether a purchase has been made for a delivery, guess the delivery timeframe, store the delivery in a database, and automatically alert the user if today's date is later than the anticipated delivery date. However, even this scenario doesn't account for company purchases made with a purchase order system, which is why procurement teams exist.\n\nGiven that I am no genius, an idiot's backup to the system above is to use a slack slash command to automatically update a simple database, like a spreadsheet in Google Sheets for example. Then, using an incoming webhook, send an alert if it is past the delivery date for the package, triggered once every day to a channel, perhaps called #deliveryalerts. If there are no packages that are supposed to be delivered already, no alerts. \n\nWe can first create a simple spreadsheet database like this: \n![vendor-spreadsheet](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/vendor_spreadsheet.jpg)\nThis would show the item that is being delivered, the estimated delivery date, and a boolean Yes/No as to whether the item has been received.\n\nThen, we can create the #deliveryalerts channel in Slack, and integrate a Slack incoming webhook that points to #deliveryalerts and a slash command. In this case, we create one called /delivery. /delivery will send a post request to some endpoint that you need to define (a url). In our case, we can just use Google Apps script to set up this endpoint. Anything written after the /delivery command will be sent to the endpoint, and we can create the script to parse this text message using regular expressions (regex). Google Apps Script will handle the request through a doPost() function that you must write. Just take the spreadsheet that you want to set as your deliveries database, and on the Tools menu select script editor. Copy the `doPost()` example below into the Code.gs file.\n\n```javascript\n// Handle the Post request, based upon the command that is written after the slash command\nfunction doPost(e){\n  var commandReceived = e.parameter[\"text\"];\n\n  if (commandReceived.match(/help/)) showHelp();\t\t\t// showHelp() is run when slack user types: /delivery help\n  if (commandReceived.match(/list/)) listDeliveries();\n  if (commandReceived.match(/add/)) add(e);\n  if (commandReceived.match(/remove/)) remove(e);\t\t\t// remove(e) is run after slack user types: /delivery remove someItem\n  if (commandReceived.match(/received/)) received(e);\n  \n  // Need to create a return, otherwise slack will complain that there was no response created\n  var returnMessage = \"send complete\";\n  return ContentService.createTextOutput(JSON.stringify({text:returnMessage})).setMimeType(ContentService.MimeType.JSON);\n}\n```\n\nSlack complains if there is no return message, so I've also included just a simple \"send complete\" at the end of the `doPost()` function. Now, all you need to do is create the functions to handle each of the if statements in `doPost()`. An example of this function can be seen here, for marking a delivery as received. Notice that regular expressions are used to determine the format for the string that is attached to the slash command.\n\n~~~ javascript\nfunction received(e){\n  var receiver = e.parameter[\"user_name\"];\n  var messageReceived = e.parameter[\"text\"].trim();\n  var regex = /received ([a-zA-Z0-9-_\\s]+)/;\n  var matches = regex.exec(messageReceived);\n  var deliveryName = matches[1];\n  var sheet = getStatusSheet();\n  var affectedRow = getDeliveryRow(deliveryName);\n  \n  if (affectedRow) {\n    sheet.getRange(\"D\" + (affectedRow)).setValue('Y');\n    getLogger().log(\"%s received delivery %s\", receiver, deliveryName);\n    listDeliveries();\n  } else {\n    sendMessage(\"*\" + deliveryName + \"* delivery not found\");\n  }\n}\n~~~\n\nThen there's the timed triggers. To do this, I used a trigger function, which runs another function I made, querySpreadsheet, once every day. I also created a button on a html page to turn on/off this trigger.\n~~~ javascript\nfunction createTrigger() {\n  ScriptApp.newTrigger('querySpreadsheet')\n  .timeBased()\n  .everyDays(1)\n  .create()\n}\n~~~\n\nAnother note, I used BetterLog to create another spreadsheet tab that keeps track of the different actions users take with the app. This helps us know who received what package in case we need to track one down. You'll have to add the BetterLog library to your project.\n\nTo set everything up on the Slack end, login to <a href=\"https://api.slack.com/apps\">api.slack.com/apps</a>, create a new app, and Add features and functionality, adding Incoming Webhooks, Interactive Components, and Slash Commands. You will need to copy the incoming webhooks link into the Google Apps Script. \n\nThe full script is located in this github repository: <a href=\"https://github.com/simjxu/google_apps_scripts/tree/master/Slack-Delivery-Tracking\">Slack Delivery Tracking</a>  Be sure to change out the spreadsheet id to match the spreadsheet id of your Google sheets document (the long string in your Google Sheet URL), and change the incoming webhook link to the webhook link that you receive when you enable that feature on your slack apps. You might want to test by changing the `createTrigger()` function to be `.everyMinutes(1)` instead of `.everyDays(1)`.\n\nTo Do: to reduce time that it takes to read through the excel sheet, it's best to add within the trigger function something that places the received packages into some sort of archive spreadsheet tab. But alas, I already took too long to create this post. I can't take this long if I want to see rows of green squares on my github.\n\nUseful references: https://medium.com/@hopsor/building-a-slack-serverless-bot-with-google-apps-script-and-spreadsheets-35bdac755a44\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "e1a1ac9a4f71834373d7d2be84b0aca1",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "How to use Slack to Post to a Google Sheets Database",
+        "layout": "post",
+        "date": "2018-09-17",
+        "_PARENT": "f3d29bf4-f4d8-5bbd-978e-4f944102d62f"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nSince I work for an IIoT combined hardware/sofware company, we often receive packages through the mail. This includes anything from dev boards to etched plastic enclosures. Now that we receive packages so often, it is not very easy to keep track of when a package is supposed to be arriving, and we don't always get notifications when items get held up in customs or get lost in the process. Once again APIs are here to save the day.\n\nIn the ideal scenario, we could create a Chrome extension with a trained machine learning algorithm that can detect whether a purchase has been made for a delivery, guess the delivery timeframe, store the delivery in a database, and automatically alert the user if today's date is later than the anticipated delivery date. However, even this scenario doesn't account for company purchases made with a purchase order system, which is why procurement teams exist.\n\nGiven that I am no genius, an idiot's backup to the system above is to use a slack slash command to automatically update a simple database, like a spreadsheet in Google Sheets for example. Then, using an incoming webhook, send an alert if it is past the delivery date for the package, triggered once every day to a channel, perhaps called #deliveryalerts. If there are no packages that are supposed to be delivered already, no alerts. \n\nWe can first create a simple spreadsheet database like this: \n![vendor-spreadsheet](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/vendor_spreadsheet.jpg)\nThis would show the item that is being delivered, the estimated delivery date, and a boolean Yes/No as to whether the item has been received.\n\nThen, we can create the #deliveryalerts channel in Slack, and integrate a Slack incoming webhook that points to #deliveryalerts and a slash command. In this case, we create one called /delivery. /delivery will send a post request to some endpoint that you need to define (a url). In our case, we can just use Google Apps script to set up this endpoint. Anything written after the /delivery command will be sent to the endpoint, and we can create the script to parse this text message using regular expressions (regex). Google Apps Script will handle the request through a doPost() function that you must write. Just take the spreadsheet that you want to set as your deliveries database, and on the Tools menu select script editor. Copy the `doPost()` example below into the Code.gs file.\n\n```javascript\n// Handle the Post request, based upon the command that is written after the slash command\nfunction doPost(e){\n  var commandReceived = e.parameter[\"text\"];\n\n  if (commandReceived.match(/help/)) showHelp();\t\t\t// showHelp() is run when slack user types: /delivery help\n  if (commandReceived.match(/list/)) listDeliveries();\n  if (commandReceived.match(/add/)) add(e);\n  if (commandReceived.match(/remove/)) remove(e);\t\t\t// remove(e) is run after slack user types: /delivery remove someItem\n  if (commandReceived.match(/received/)) received(e);\n  \n  // Need to create a return, otherwise slack will complain that there was no response created\n  var returnMessage = \"send complete\";\n  return ContentService.createTextOutput(JSON.stringify({text:returnMessage})).setMimeType(ContentService.MimeType.JSON);\n}\n```\n\nSlack complains if there is no return message, so I've also included just a simple \"send complete\" at the end of the `doPost()` function. Now, all you need to do is create the functions to handle each of the if statements in `doPost()`. An example of this function can be seen here, for marking a delivery as received. Notice that regular expressions are used to determine the format for the string that is attached to the slash command.\n\n~~~ javascript\nfunction received(e){\n  var receiver = e.parameter[\"user_name\"];\n  var messageReceived = e.parameter[\"text\"].trim();\n  var regex = /received ([a-zA-Z0-9-_\\s]+)/;\n  var matches = regex.exec(messageReceived);\n  var deliveryName = matches[1];\n  var sheet = getStatusSheet();\n  var affectedRow = getDeliveryRow(deliveryName);\n  \n  if (affectedRow) {\n    sheet.getRange(\"D\" + (affectedRow)).setValue('Y');\n    getLogger().log(\"%s received delivery %s\", receiver, deliveryName);\n    listDeliveries();\n  } else {\n    sendMessage(\"*\" + deliveryName + \"* delivery not found\");\n  }\n}\n~~~\n\nThen there's the timed triggers. To do this, I used a trigger function, which runs another function I made, querySpreadsheet, once every day. I also created a button on a html page to turn on/off this trigger.\n~~~ javascript\nfunction createTrigger() {\n  ScriptApp.newTrigger('querySpreadsheet')\n  .timeBased()\n  .everyDays(1)\n  .create()\n}\n~~~\n\nAnother note, I used BetterLog to create another spreadsheet tab that keeps track of the different actions users take with the app. This helps us know who received what package in case we need to track one down. You'll have to add the BetterLog library to your project.\n\nTo set everything up on the Slack end, login to <a href=\"https://api.slack.com/apps\">api.slack.com/apps</a>, create a new app, and Add features and functionality, adding Incoming Webhooks, Interactive Components, and Slash Commands. You will need to copy the incoming webhooks link into the Google Apps Script. \n\nThe full script is located in this github repository: <a href=\"https://github.com/simjxu/google_apps_scripts/tree/master/Slack-Delivery-Tracking\">Slack Delivery Tracking</a>  Be sure to change out the spreadsheet id to match the spreadsheet id of your Google sheets document (the long string in your Google Sheet URL), and change the incoming webhook link to the webhook link that you receive when you enable that feature on your slack apps. You might want to test by changing the `createTrigger()` function to be `.everyMinutes(1)` instead of `.everyDays(1)`.\n\nTo Do: to reduce time that it takes to read through the excel sheet, it's best to add within the trigger function something that places the received packages into some sort of archive spreadsheet tab. But alas, I already took too long to create this post. I can't take this long if I want to see rows of green squares on my github.\n\nUseful references: https://medium.com/@hopsor/building-a-slack-serverless-bot-with-google-apps-script-and-spreadsheets-35bdac755a44\n",
+      "fileAbsolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/slackdeliverytracker.md",
+      "fields": {
+        "slug": "/posts/slackdeliverytracker/"
+      }
+    },
+    "SitePage /posts/goingclimbing/": {
+      "jsonName": "posts-goingclimbing-015",
+      "internalComponentName": "ComponentPostsGoingclimbing",
+      "path": "/posts/goingclimbing/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/posts/goingclimbing/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "id": "SitePage /posts/goingclimbing/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "08e1e31422bc5dfbc0842766013525fc",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/googlecomputeengine/": {
+      "jsonName": "posts-googlecomputeengine-93b",
+      "internalComponentName": "ComponentPostsGooglecomputeengine",
+      "path": "/posts/googlecomputeengine/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/posts/googlecomputeengine/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "id": "SitePage /posts/googlecomputeengine/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4dca908bed6cc549b730091964f10f1d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/mfgapp/": {
+      "jsonName": "posts-mfgapp-3d3",
+      "internalComponentName": "ComponentPostsMfgapp",
+      "path": "/posts/mfgapp/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/posts/mfgapp/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "id": "SitePage /posts/mfgapp/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9cee5d0dd55af5aa7e4914ddccf62b70",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/slackdeliverytracker/": {
+      "jsonName": "posts-slackdeliverytracker-dfa",
+      "internalComponentName": "ComponentPostsSlackdeliverytracker",
+      "path": "/posts/slackdeliverytracker/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/posts/slackdeliverytracker/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "id": "SitePage /posts/slackdeliverytracker/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "415b0561cde255e195d92f488cdd13ff",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e7da057cc08fada86a691845172573ca",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2d02271b9802bbe23bcdc44e53c3be00",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "jsonName": "contact-26a",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "426da83eb8357a806e959ac5d01e69cf",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "47d2e7dd139cf3ccf354b987448ac9b8",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /my-files/": {
+      "jsonName": "my-files-317",
+      "internalComponentName": "ComponentMyFiles",
+      "path": "/my-files/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/my-files.js",
+      "componentChunkName": "component---src-pages-my-files-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/my-files.js",
+      "id": "SitePage /my-files/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2dade79e7b12d66fecad7e03892df5be",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fe6fefb465b612aa4fdaaf34e3b254a1",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "0b3725e19d947393fc190511d1597666"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js"
+      ],
+      "e88ce11d-ab27-5cf0-86e3-9959a8481b98": [
+        "/posts/goingclimbing/"
+      ],
+      "f9c168c6-1257-5b9b-ae49-5d85d762c345": [
+        "/posts/googlecomputeengine/"
+      ],
+      "830400f9-c36e-549d-be2d-5a45383becc1": [
+        "/posts/mfgapp/"
+      ],
+      "5b7f9e5c-d310-5f8d-b38e-6a7d084a1058": [
+        "/posts/slackdeliverytracker/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ],
+      "File": [
+        "/my-files/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "sq--src-components-layout-js": 755544856,
+    "my-files-317": "591/path---my-files-317-4c7-FDPGmYQ7VifhFyrerEmsTd876Bs",
+    "index": "958/path---index-6a9-gdeA3JYpUpyPLmeHhVmHPaGJ1Fc",
+    "posts-goingclimbing-015": "93/path---posts-goingclimbing-015-fb4-eVppT35deniTbi8ZsuhxkGPo",
+    "posts-googlecomputeengine-93b": "527/path---posts-googlecomputeengine-93-b-c19-rZV349IzkQz6CWPK3BoPSRM5pVk",
+    "posts-mfgapp-3d3": "961/path---posts-mfgapp-3-d-3-a60-pLKlugvpxzbRCm6XAbQoewyKsMk",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "posts-slackdeliverytracker-dfa": "8/path---posts-slackdeliverytracker-dfa-1fd-Pg9XcbA5AsBWXn1OkWdkBFEYoc0",
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
+    "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js": {
+      "query": "query homeSimonProjectsGithubSimjxuGatsbyThemushSrcTemplatesBlogPostJs861893041(\n  $slug: String!\n) {\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    html\n    frontmatter {\n      title\n    }\n  }\n}\n",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js"
+    },
+    "/home/simon/Projects/Github-simjxu/gatsby-themush/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/.cache/dev-404-page.js"
+    },
+    "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/404.js"
+    },
+    "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about.js": {
+      "query": "",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about.js"
+    },
+    "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/contact.js": {
+      "query": "",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/contact.js"
+    },
+    "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/index.js": {
+      "query": "query homeSimonProjectsGithubSimjxuGatsbyThemushSrcPagesIndexJs1411931122 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    totalCount\n    edges {\n      node {\n        id\n        frontmatter {\n          title\n          date(formatString: \"DD MMM, YYYY\")\n        }\n        fields {\n          slug\n        }\n        excerpt\n      }\n    }\n  }\n}\n",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/index.js"
+    },
+    "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/my-files.js": {
+      "query": "query homeSimonProjectsGithubSimjxuGatsbyThemushSrcPagesMyFilesJs3953592347 {\n  allFile {\n    edges {\n      node {\n        relativePath\n        prettySize\n        extension\n        birthTime(fromNow: true)\n      }\n    }\n  }\n}\n",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/my-files.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    }
+  }
+}
