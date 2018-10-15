@@ -20,6 +20,16 @@
         "path": "/about/"
     },
     {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "about-aboutme-179",
+        "path": "/about/aboutme/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "about-contact-9ee",
+        "path": "/about/contact/"
+    },
+    {
         "componentChunkName": "component---src-pages-contact-js",
         "jsonName": "contact-26a",
         "path": "/contact/"
@@ -36,6 +46,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "posts-2018-09-30-gatsby-1-a12",
+        "path": "/posts/2018-09-30-gatsby1/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "posts-goingclimbing-015",
         "path": "/posts/goingclimbing/"
     },
@@ -43,6 +58,11 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "posts-googlecomputeengine-93b",
         "path": "/posts/googlecomputeengine/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "posts-graphql-filter-ed3",
+        "path": "/posts/graphql_filter/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",

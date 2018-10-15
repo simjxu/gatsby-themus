@@ -48,6 +48,7 @@ const IndexPage = ({ data }) => {
               </h3>
             </Link>
             <p>{node.excerpt}</p>
+            {/* <p>{node.internal.content}</p> */}
           </div>
         ))}
 
@@ -59,10 +60,12 @@ const IndexPage = ({ data }) => {
   )
 }
 
+// This is the GraphQL filter that determines what shows up
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], 
-      order: DESC}) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC}
+      filter: { frontmatter: {layout: {eq: "post"}}}) {
       totalCount
       edges {
         node {
@@ -75,6 +78,9 @@ export const query = graphql`
             slug
           }
           excerpt
+          internal {
+            content
+          }
         }
       }
     }

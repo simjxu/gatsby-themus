@@ -999,12 +999,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-01T00:15:09.842Z",
+      "buildTime": "2018-10-15T00:47:35.369Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7c5f700f09808a17635ab90e6f8e8cf1",
+        "contentDigest": "650f5183811a06add7b3cc54932edc82",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1014,7 +1014,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cb8a85d2e7ba945c7eb5c3ab81563117",
+        "contentDigest": "9594d7a29130d50c95697aad38ce0751",
         "type": "Directory",
         "description": "Directory \"src\"",
         "owner": "gatsby-source-filesystem"
@@ -1026,7 +1026,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-09-30T23:45:22.679Z",
-      "accessTime": "2018-10-01T00:14:25.677Z",
+      "accessTime": "2018-10-14T23:54:35.195Z",
       "changeTime": "2018-10-01T00:14:25.577Z",
       "birthTime": "2018-10-01T00:14:25.577Z",
       "root": "/",
@@ -1044,11 +1044,11 @@
       "blksize": 4096,
       "ino": 1088447,
       "blocks": 8,
-      "atimeMs": 1538352865676.7717,
+      "atimeMs": 1539561275195.009,
       "mtimeMs": 1538351122679.134,
       "ctimeMs": 1538352865576.7961,
       "birthtimeMs": 1538352865576.7961,
-      "atime": "2018-10-01T00:14:25.677Z",
+      "atime": "2018-10-14T23:54:35.195Z",
       "mtime": "2018-09-30T23:45:22.679Z",
       "ctime": "2018-10-01T00:14:25.577Z",
       "birthtime": "2018-10-01T00:14:25.577Z"
@@ -1058,7 +1058,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2e55ba06a31b6f43f17f45ac4706bdc8",
+        "contentDigest": "bd0e9d3c1195480d4e1a3fdcd0f10175",
         "type": "Directory",
         "description": "Directory \"src/components\"",
         "owner": "gatsby-source-filesystem"
@@ -1070,7 +1070,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-09-24T19:55:43.111Z",
-      "accessTime": "2018-10-01T00:15:12.470Z",
+      "accessTime": "2018-10-14T23:54:35.199Z",
       "changeTime": "2018-10-01T00:10:24.834Z",
       "birthTime": "2018-10-01T00:10:24.834Z",
       "root": "/",
@@ -1088,11 +1088,11 @@
       "blksize": 4096,
       "ino": 1088449,
       "blocks": 8,
-      "atimeMs": 1538352912470.3494,
+      "atimeMs": 1539561275199.0093,
       "mtimeMs": 1537818943110.586,
       "ctimeMs": 1538352624833.8584,
       "birthtimeMs": 1538352624833.8584,
-      "atime": "2018-10-01T00:15:12.470Z",
+      "atime": "2018-10-14T23:54:35.199Z",
       "mtime": "2018-09-24T19:55:43.111Z",
       "ctime": "2018-10-01T00:10:24.834Z",
       "birthtime": "2018-10-01T00:10:24.834Z"
@@ -1102,7 +1102,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bc67bee28174cdb8e0159fc13a85b40b",
+        "contentDigest": "f0b7b2156dbab17341e4b68150a445b8",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1114,7 +1114,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-09-24T17:49:17.488Z",
-      "accessTime": "2018-10-01T00:15:12.470Z",
+      "accessTime": "2018-10-14T23:54:35.199Z",
       "changeTime": "2018-10-01T00:10:24.834Z",
       "birthTime": "2018-10-01T00:10:24.834Z",
       "root": "/",
@@ -1132,11 +1132,11 @@
       "blksize": 4096,
       "ino": 1088450,
       "blocks": 8,
-      "atimeMs": 1538352912470.3494,
+      "atimeMs": 1539561275199.0093,
       "mtimeMs": 1537811357488.394,
       "ctimeMs": 1538352624833.8584,
       "birthtimeMs": 1538352624833.8584,
-      "atime": "2018-10-01T00:15:12.470Z",
+      "atime": "2018-10-14T23:54:35.199Z",
       "mtime": "2018-09-24T17:49:17.488Z",
       "ctime": "2018-10-01T00:10:24.834Z",
       "birthtime": "2018-10-01T00:10:24.834Z"
@@ -1146,7 +1146,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b65b944a7c75584f2f93d39ead6d915a",
+        "contentDigest": "b4938cc410b2d7737ad3a677a4bb0a27",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1157,10 +1157,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-09-30T22:47:18.810Z",
-      "accessTime": "2018-10-01T00:15:12.470Z",
-      "changeTime": "2018-10-01T00:10:24.838Z",
-      "birthTime": "2018-10-01T00:10:24.838Z",
+      "modifiedTime": "2018-10-13T19:24:32.670Z",
+      "accessTime": "2018-10-14T23:54:35.195Z",
+      "changeTime": "2018-10-13T19:24:32.670Z",
+      "birthTime": "2018-10-13T19:24:32.670Z",
       "root": "/",
       "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src",
       "base": "pages",
@@ -1169,28 +1169,28 @@
       "relativeDirectory": "",
       "dev": 2053,
       "mode": 16893,
-      "nlink": 4,
+      "nlink": 5,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
       "ino": 1088451,
       "blocks": 8,
-      "atimeMs": 1538352912470.3494,
-      "mtimeMs": 1538347638809.885,
-      "ctimeMs": 1538352624837.8586,
-      "birthtimeMs": 1538352624837.8586,
-      "atime": "2018-10-01T00:15:12.470Z",
-      "mtime": "2018-09-30T22:47:18.810Z",
-      "ctime": "2018-10-01T00:10:24.838Z",
-      "birthtime": "2018-10-01T00:10:24.838Z"
+      "atimeMs": 1539561275195.009,
+      "mtimeMs": 1539458672669.644,
+      "ctimeMs": 1539458672669.644,
+      "birthtimeMs": 1539458672669.644,
+      "atime": "2018-10-14T23:54:35.195Z",
+      "mtime": "2018-10-13T19:24:32.670Z",
+      "ctime": "2018-10-13T19:24:32.670Z",
+      "birthtime": "2018-10-13T19:24:32.670Z"
     },
     "03b04410-7ffc-5d34-9a8a-140afa636735": {
       "id": "03b04410-7ffc-5d34-9a8a-140afa636735",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "125dbd9df6dd9414457a064b59307a5b",
+        "contentDigest": "10e715f29535f7aec7496ac75912cfdc",
         "type": "Directory",
         "description": "Directory \"src/templates\"",
         "owner": "gatsby-source-filesystem"
@@ -1202,7 +1202,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-09-30T22:58:32.836Z",
-      "accessTime": "2018-10-01T00:15:12.470Z",
+      "accessTime": "2018-10-14T23:54:35.199Z",
       "changeTime": "2018-10-01T00:10:24.834Z",
       "birthTime": "2018-10-01T00:10:24.834Z",
       "root": "/",
@@ -1220,11 +1220,11 @@
       "blksize": 4096,
       "ino": 1088448,
       "blocks": 8,
-      "atimeMs": 1538352912470.3494,
+      "atimeMs": 1539561275199.0093,
       "mtimeMs": 1538348312835.905,
       "ctimeMs": 1538352624833.8584,
       "birthtimeMs": 1538352624833.8584,
-      "atime": "2018-10-01T00:15:12.470Z",
+      "atime": "2018-10-14T23:54:35.199Z",
       "mtime": "2018-09-30T22:58:32.836Z",
       "ctime": "2018-10-01T00:10:24.834Z",
       "birthtime": "2018-10-01T00:10:24.834Z"
@@ -1234,7 +1234,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b9996ead89ab2c43e3eb2a34b260e914",
+        "contentDigest": "0a8352529a89f3d9ae6a69bea85c8302",
         "type": "Directory",
         "description": "Directory \"src/utils\"",
         "owner": "gatsby-source-filesystem"
@@ -1246,7 +1246,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-09-24T23:50:19.318Z",
-      "accessTime": "2018-10-01T00:15:12.470Z",
+      "accessTime": "2018-10-14T23:54:35.199Z",
       "changeTime": "2018-10-01T00:10:24.838Z",
       "birthTime": "2018-10-01T00:10:24.838Z",
       "root": "/",
@@ -1264,11 +1264,11 @@
       "blksize": 4096,
       "ino": 1088454,
       "blocks": 8,
-      "atimeMs": 1538352912470.3494,
+      "atimeMs": 1539561275199.0093,
       "mtimeMs": 1537833019318.051,
       "ctimeMs": 1538352624837.8586,
       "birthtimeMs": 1538352624837.8586,
-      "atime": "2018-10-01T00:15:12.470Z",
+      "atime": "2018-10-14T23:54:35.199Z",
       "mtime": "2018-09-24T23:50:19.318Z",
       "ctime": "2018-10-01T00:10:24.838Z",
       "birthtime": "2018-10-01T00:10:24.838Z"
@@ -1278,7 +1278,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "dbe8f120ccac77efdda745fd2a806366",
+        "contentDigest": "ccb4c2c326536dd72a8bdb9f1cb0c9e5",
         "type": "Directory",
         "description": "Directory \"src/pages/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1289,10 +1289,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-09-30T22:47:18.810Z",
-      "accessTime": "2018-10-01T00:15:12.474Z",
-      "changeTime": "2018-10-01T00:10:24.834Z",
-      "birthTime": "2018-10-01T00:10:24.834Z",
+      "modifiedTime": "2018-10-15T00:47:20.891Z",
+      "accessTime": "2018-10-15T00:47:20.895Z",
+      "changeTime": "2018-10-15T00:47:20.891Z",
+      "birthTime": "2018-10-15T00:47:20.891Z",
       "root": "/",
       "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
       "base": "posts",
@@ -1308,21 +1308,21 @@
       "blksize": 4096,
       "ino": 1088452,
       "blocks": 8,
-      "atimeMs": 1538352912474.3486,
-      "mtimeMs": 1538347638809.885,
-      "ctimeMs": 1538352624833.8584,
-      "birthtimeMs": 1538352624833.8584,
-      "atime": "2018-10-01T00:15:12.474Z",
-      "mtime": "2018-09-30T22:47:18.810Z",
-      "ctime": "2018-10-01T00:10:24.834Z",
-      "birthtime": "2018-10-01T00:10:24.834Z"
+      "atimeMs": 1539564440894.7615,
+      "mtimeMs": 1539564440890.7615,
+      "ctimeMs": 1539564440890.7615,
+      "birthtimeMs": 1539564440890.7615,
+      "atime": "2018-10-15T00:47:20.895Z",
+      "mtime": "2018-10-15T00:47:20.891Z",
+      "ctime": "2018-10-15T00:47:20.891Z",
+      "birthtime": "2018-10-15T00:47:20.891Z"
     },
     "a72f7750-b0af-5809-87d8-7e9675551af5": {
       "id": "a72f7750-b0af-5809-87d8-7e9675551af5",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2bef10d173e9ea7fe89b126974e5001d",
+        "contentDigest": "266a9a99f21e49c291020734490cddd8",
         "type": "Directory",
         "description": "Directory \"src/pages/projects\"",
         "owner": "gatsby-source-filesystem"
@@ -1334,7 +1334,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-09-30T05:11:13.468Z",
-      "accessTime": "2018-10-01T00:15:12.474Z",
+      "accessTime": "2018-10-14T23:54:35.195Z",
       "changeTime": "2018-10-01T00:10:24.834Z",
       "birthTime": "2018-10-01T00:10:24.834Z",
       "root": "/",
@@ -1352,11 +1352,11 @@
       "blksize": 4096,
       "ino": 1088453,
       "blocks": 8,
-      "atimeMs": 1538352912474.3486,
+      "atimeMs": 1539561275195.009,
       "mtimeMs": 1538284273467.649,
       "ctimeMs": 1538352624833.8584,
       "birthtimeMs": 1538352624833.8584,
-      "atime": "2018-10-01T00:15:12.474Z",
+      "atime": "2018-10-14T23:54:35.195Z",
       "mtime": "2018-09-30T05:11:13.468Z",
       "ctime": "2018-10-01T00:10:24.834Z",
       "birthtime": "2018-10-01T00:10:24.834Z"
@@ -1636,7 +1636,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "18c43e586c54147270a0d8561905163d",
+        "contentDigest": "657cda4df08be8af3351a5ef2da6193f",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/about.js\"",
@@ -1646,12 +1646,12 @@
       "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about.js",
       "relativePath": "pages/about.js",
       "extension": "js",
-      "size": 368,
-      "prettySize": "368 B",
-      "modifiedTime": "2018-09-24T23:49:16.062Z",
-      "accessTime": "2018-10-01T00:10:24.838Z",
-      "changeTime": "2018-10-01T00:10:24.838Z",
-      "birthTime": "2018-10-01T00:10:24.838Z",
+      "size": 1040,
+      "prettySize": "1.04 kB",
+      "modifiedTime": "2018-10-15T00:39:33.901Z",
+      "accessTime": "2018-10-15T00:01:09.052Z",
+      "changeTime": "2018-10-15T00:39:33.901Z",
+      "birthTime": "2018-10-15T00:39:33.901Z",
       "root": "/",
       "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
       "base": "about.js",
@@ -1667,21 +1667,21 @@
       "blksize": 4096,
       "ino": 1087080,
       "blocks": 8,
-      "atimeMs": 1538352624837.858,
-      "mtimeMs": 1537832956061.999,
-      "ctimeMs": 1538352624837.8586,
-      "birthtimeMs": 1538352624837.8586,
-      "atime": "2018-10-01T00:10:24.838Z",
-      "mtime": "2018-09-24T23:49:16.062Z",
-      "ctime": "2018-10-01T00:10:24.838Z",
-      "birthtime": "2018-10-01T00:10:24.838Z"
+      "atimeMs": 1539561669052.0686,
+      "mtimeMs": 1539563973900.9297,
+      "ctimeMs": 1539563973900.9297,
+      "birthtimeMs": 1539563973900.9297,
+      "atime": "2018-10-15T00:01:09.052Z",
+      "mtime": "2018-10-15T00:39:33.901Z",
+      "ctime": "2018-10-15T00:39:33.901Z",
+      "birthtime": "2018-10-15T00:39:33.901Z"
     },
     "ad537cf8-2077-53b0-b592-63673baddcd7": {
       "id": "ad537cf8-2077-53b0-b592-63673baddcd7",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d0feeb6eabbdd18f3dcc57fd7ef41ab0",
+        "contentDigest": "110001a928244cdfe1c8f2b6c05438e2",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/contact.js\"",
@@ -1691,12 +1691,12 @@
       "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/contact.js",
       "relativePath": "pages/contact.js",
       "extension": "js",
-      "size": 457,
-      "prettySize": "457 B",
-      "modifiedTime": "2018-09-24T23:40:45.500Z",
-      "accessTime": "2018-10-01T00:10:24.838Z",
-      "changeTime": "2018-10-01T00:10:24.838Z",
-      "birthTime": "2018-10-01T00:10:24.838Z",
+      "size": 1046,
+      "prettySize": "1.05 kB",
+      "modifiedTime": "2018-10-15T00:37:45.555Z",
+      "accessTime": "2018-10-15T00:37:45.663Z",
+      "changeTime": "2018-10-15T00:37:45.555Z",
+      "birthTime": "2018-10-15T00:37:45.555Z",
       "root": "/",
       "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
       "base": "contact.js",
@@ -1712,21 +1712,21 @@
       "blksize": 4096,
       "ino": 1087083,
       "blocks": 8,
-      "atimeMs": 1538352624837.858,
-      "mtimeMs": 1537832445499.858,
-      "ctimeMs": 1538352624837.8586,
-      "birthtimeMs": 1538352624837.8586,
-      "atime": "2018-10-01T00:10:24.838Z",
-      "mtime": "2018-09-24T23:40:45.500Z",
-      "ctime": "2018-10-01T00:10:24.838Z",
-      "birthtime": "2018-10-01T00:10:24.838Z"
+      "atimeMs": 1539563865663.0762,
+      "mtimeMs": 1539563865555.0786,
+      "ctimeMs": 1539563865555.0786,
+      "birthtimeMs": 1539563865555.0786,
+      "atime": "2018-10-15T00:37:45.663Z",
+      "mtime": "2018-10-15T00:37:45.555Z",
+      "ctime": "2018-10-15T00:37:45.555Z",
+      "birthtime": "2018-10-15T00:37:45.555Z"
     },
     "e133b3f5-e5bd-5162-9f56-959240beca68": {
       "id": "e133b3f5-e5bd-5162-9f56-959240beca68",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5ae9529554ad43729083410264001cc2",
+        "contentDigest": "d6e01fe5857ea19c8ce3a79e52de08cf",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/index.js\"",
@@ -1736,12 +1736,12 @@
       "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/index.js",
       "relativePath": "pages/index.js",
       "extension": "js",
-      "size": 1829,
-      "prettySize": "1.83 kB",
-      "modifiedTime": "2018-09-30T23:11:49.945Z",
-      "accessTime": "2018-10-01T00:10:24.838Z",
-      "changeTime": "2018-10-01T00:10:24.838Z",
-      "birthTime": "2018-10-01T00:10:24.838Z",
+      "size": 2046,
+      "prettySize": "2.05 kB",
+      "modifiedTime": "2018-10-14T16:08:25.141Z",
+      "accessTime": "2018-10-14T16:07:37.643Z",
+      "changeTime": "2018-10-14T16:08:25.141Z",
+      "birthTime": "2018-10-14T16:08:25.141Z",
       "root": "/",
       "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
       "base": "index.js",
@@ -1757,14 +1757,14 @@
       "blksize": 4096,
       "ino": 1087082,
       "blocks": 8,
-      "atimeMs": 1538352624837.858,
-      "mtimeMs": 1538349109944.651,
-      "ctimeMs": 1538352624837.8586,
-      "birthtimeMs": 1538352624837.8586,
-      "atime": "2018-10-01T00:10:24.838Z",
-      "mtime": "2018-09-30T23:11:49.945Z",
-      "ctime": "2018-10-01T00:10:24.838Z",
-      "birthtime": "2018-10-01T00:10:24.838Z"
+      "atimeMs": 1539533257642.8757,
+      "mtimeMs": 1539533305141.4688,
+      "ctimeMs": 1539533305141.4688,
+      "birthtimeMs": 1539533305141.4688,
+      "atime": "2018-10-14T16:07:37.643Z",
+      "mtime": "2018-10-14T16:08:25.141Z",
+      "ctime": "2018-10-14T16:08:25.141Z",
+      "birthtime": "2018-10-14T16:08:25.141Z"
     },
     "169fe2ea-b5a8-5535-bf44-065bde59a7df": {
       "id": "169fe2ea-b5a8-5535-bf44-065bde59a7df",
@@ -1873,10 +1873,10 @@
       "extension": "js",
       "size": 519,
       "prettySize": "519 B",
-      "modifiedTime": "2018-09-30T23:02:49.422Z",
-      "accessTime": "2018-10-01T00:10:24.834Z",
-      "changeTime": "2018-10-01T00:10:24.834Z",
-      "birthTime": "2018-10-01T00:10:24.834Z",
+      "modifiedTime": "2018-10-15T00:20:00.095Z",
+      "accessTime": "2018-10-15T00:19:55.011Z",
+      "changeTime": "2018-10-15T00:20:00.095Z",
+      "birthTime": "2018-10-15T00:20:00.095Z",
       "root": "/",
       "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates",
       "base": "blog-post.js",
@@ -1892,14 +1892,14 @@
       "blksize": 4096,
       "ino": 1087070,
       "blocks": 8,
-      "atimeMs": 1538352624833.858,
-      "mtimeMs": 1538348569421.91,
-      "ctimeMs": 1538352624833.8584,
-      "birthtimeMs": 1538352624833.8584,
-      "atime": "2018-10-01T00:10:24.834Z",
-      "mtime": "2018-09-30T23:02:49.422Z",
-      "ctime": "2018-10-01T00:10:24.834Z",
-      "birthtime": "2018-10-01T00:10:24.834Z"
+      "atimeMs": 1539562795010.985,
+      "mtimeMs": 1539562800095.1484,
+      "ctimeMs": 1539562800095.1484,
+      "birthtimeMs": 1539562800095.1484,
+      "atime": "2018-10-15T00:19:55.011Z",
+      "mtime": "2018-10-15T00:20:00.095Z",
+      "ctime": "2018-10-15T00:20:00.095Z",
+      "birthtime": "2018-10-15T00:20:00.095Z"
     },
     "b1b097a5-7589-50ca-83bd-82c6396a2ae9": {
       "id": "b1b097a5-7589-50ca-83bd-82c6396a2ae9",
@@ -2049,7 +2049,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fb65fd70fbda0ab1909a5ee956ac01a8",
+        "contentDigest": "2d4b81a74ed4b2980caab34c1d5c3c24",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/posts/slackdeliverytracker.md\"",
@@ -2059,12 +2059,12 @@
       "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/slackdeliverytracker.md",
       "relativePath": "pages/posts/slackdeliverytracker.md",
       "extension": "md",
-      "size": 6356,
+      "size": 6358,
       "prettySize": "6.36 kB",
-      "modifiedTime": "2018-09-30T23:25:43.238Z",
-      "accessTime": "2018-10-01T00:10:24.834Z",
-      "changeTime": "2018-10-01T00:10:24.834Z",
-      "birthTime": "2018-10-01T00:10:24.834Z",
+      "modifiedTime": "2018-10-14T15:52:19.796Z",
+      "accessTime": "2018-10-13T19:16:58.217Z",
+      "changeTime": "2018-10-14T15:52:19.796Z",
+      "birthTime": "2018-10-14T15:52:19.796Z",
       "root": "/",
       "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts",
       "base": "slackdeliverytracker.md",
@@ -2080,14 +2080,14 @@
       "blksize": 4096,
       "ino": 1087078,
       "blocks": 16,
-      "atimeMs": 1538352624833.858,
-      "mtimeMs": 1538349943238.136,
-      "ctimeMs": 1538352624833.8584,
-      "birthtimeMs": 1538352624833.8584,
-      "atime": "2018-10-01T00:10:24.834Z",
-      "mtime": "2018-09-30T23:25:43.238Z",
-      "ctime": "2018-10-01T00:10:24.834Z",
-      "birthtime": "2018-10-01T00:10:24.834Z"
+      "atimeMs": 1539458218216.7405,
+      "mtimeMs": 1539532339796.1604,
+      "ctimeMs": 1539532339796.1604,
+      "birthtimeMs": 1539532339796.1604,
+      "atime": "2018-10-13T19:16:58.217Z",
+      "mtime": "2018-10-14T15:52:19.796Z",
+      "ctime": "2018-10-14T15:52:19.796Z",
+      "birthtime": "2018-10-14T15:52:19.796Z"
     },
     "e88ce11d-ab27-5cf0-86e3-9959a8481b98": {
       "id": "e88ce11d-ab27-5cf0-86e3-9959a8481b98",
@@ -2167,14 +2167,178 @@
         "slug": "/posts/mfgapp/"
       }
     },
+    "3a49c93b-2b28-5bfc-8ecd-354ca385a035": {
+      "id": "3a49c93b-2b28-5bfc-8ecd-354ca385a035",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dcf07e914bdafe476b28d15b4fa9cf50",
+        "type": "Directory",
+        "description": "Directory \"src/pages/about\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about",
+      "relativePath": "pages/about",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-10-13T19:25:02.070Z",
+      "accessTime": "2018-10-14T23:54:32.923Z",
+      "changeTime": "2018-10-13T19:25:02.070Z",
+      "birthTime": "2018-10-13T19:25:02.070Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages",
+      "base": "about",
+      "ext": "",
+      "name": "about",
+      "relativeDirectory": "pages",
+      "dev": 2053,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1191119,
+      "blocks": 8,
+      "atimeMs": 1539561272922.9153,
+      "mtimeMs": 1539458702070.4792,
+      "ctimeMs": 1539458702070.4792,
+      "birthtimeMs": 1539458702070.4792,
+      "atime": "2018-10-14T23:54:32.923Z",
+      "mtime": "2018-10-13T19:25:02.070Z",
+      "ctime": "2018-10-13T19:25:02.070Z",
+      "birthtime": "2018-10-13T19:25:02.070Z"
+    },
+    "47114406-68a0-52b8-a392-f666bd285bc2": {
+      "id": "47114406-68a0-52b8-a392-f666bd285bc2",
+      "children": [
+        "f665c1a8-0640-5c18-80fa-31be06065530"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5bc012406247803411e91487fbb6a43d",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/about/aboutme.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about/aboutme.md",
+      "relativePath": "pages/about/aboutme.md",
+      "extension": "md",
+      "size": 1058,
+      "prettySize": "1.06 kB",
+      "modifiedTime": "2018-10-14T15:24:31.822Z",
+      "accessTime": "2018-10-13T20:41:20.232Z",
+      "changeTime": "2018-10-14T15:24:31.822Z",
+      "birthTime": "2018-10-14T15:24:31.822Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about",
+      "base": "aboutme.md",
+      "ext": ".md",
+      "name": "aboutme",
+      "relativeDirectory": "pages/about",
+      "dev": 2053,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1191124,
+      "blocks": 8,
+      "atimeMs": 1539463280232.1875,
+      "mtimeMs": 1539530671822.313,
+      "ctimeMs": 1539530671822.313,
+      "birthtimeMs": 1539530671822.313,
+      "atime": "2018-10-13T20:41:20.232Z",
+      "mtime": "2018-10-14T15:24:31.822Z",
+      "ctime": "2018-10-14T15:24:31.822Z",
+      "birthtime": "2018-10-14T15:24:31.822Z"
+    },
+    "b8940ced-4c39-503b-9dcf-94e178db6154": {
+      "id": "b8940ced-4c39-503b-9dcf-94e178db6154",
+      "children": [
+        "aa365d1e-fe95-50d1-a30b-b561e58bc1c5"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c5666e3dcc0aceae1450c2bfb7ae7392",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/about/contact.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about/contact.md",
+      "relativePath": "pages/about/contact.md",
+      "extension": "md",
+      "size": 247,
+      "prettySize": "247 B",
+      "modifiedTime": "2018-10-15T00:24:41.868Z",
+      "accessTime": "2018-10-15T00:09:32.779Z",
+      "changeTime": "2018-10-15T00:24:41.868Z",
+      "birthTime": "2018-10-15T00:24:41.868Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about",
+      "base": "contact.md",
+      "ext": ".md",
+      "name": "contact",
+      "relativeDirectory": "pages/about",
+      "dev": 2053,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1191129,
+      "blocks": 8,
+      "atimeMs": 1539562172779.2612,
+      "mtimeMs": 1539563081868.216,
+      "ctimeMs": 1539563081868.216,
+      "birthtimeMs": 1539563081868.216,
+      "atime": "2018-10-15T00:09:32.779Z",
+      "mtime": "2018-10-15T00:24:41.868Z",
+      "ctime": "2018-10-15T00:24:41.868Z",
+      "birthtime": "2018-10-15T00:24:41.868Z"
+    },
+    "f665c1a8-0640-5c18-80fa-31be06065530": {
+      "id": "f665c1a8-0640-5c18-80fa-31be06065530",
+      "children": [],
+      "parent": "47114406-68a0-52b8-a392-f666bd285bc2",
+      "internal": {
+        "content": "\nI'm yet another experienced \"professional\" engineer who enjoys the outdoors and the occassional can of sparkling water. But really, who doesn't? I suppose what differentiates me is that I love doing comedy (improv, standup), and will never pass up an opportunity to hear myself talk. Also, I've made it one of my goals to win a lifetime supply of Chipotle burritos. If you ever wonder what my motives are, there it is.\n\nMy free time involves a combination of programming side projects, comedy, rock climbing, perfecting my vitamin mush recipe, and leading bible study for the church I attend. \n\n### my history\n\nI started my engineering journey at UC Berkeley, where I specialized in Mech E. I began my first job out of college working for the US department of Defense, where I worked on naval weapons. Then transitioned to another facility where I worked on nuclear submarines, developing in-house software tools.\n\nI finally stopped working for the Feds after 4 years and transitioned to IoT, where I am now.",
+        "type": "MarkdownRemark",
+        "contentDigest": "e15dc3819600985e05e5a10da1f602ce",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About Me",
+        "layout": "aboutpg",
+        "date": "",
+        "_PARENT": "47114406-68a0-52b8-a392-f666bd285bc2"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nI'm yet another experienced \"professional\" engineer who enjoys the outdoors and the occassional can of sparkling water. But really, who doesn't? I suppose what differentiates me is that I love doing comedy (improv, standup), and will never pass up an opportunity to hear myself talk. Also, I've made it one of my goals to win a lifetime supply of Chipotle burritos. If you ever wonder what my motives are, there it is.\n\nMy free time involves a combination of programming side projects, comedy, rock climbing, perfecting my vitamin mush recipe, and leading bible study for the church I attend. \n\n### my history\n\nI started my engineering journey at UC Berkeley, where I specialized in Mech E. I began my first job out of college working for the US department of Defense, where I worked on naval weapons. Then transitioned to another facility where I worked on nuclear submarines, developing in-house software tools.\n\nI finally stopped working for the Feds after 4 years and transitioned to IoT, where I am now.",
+      "fileAbsolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about/aboutme.md",
+      "fields": {
+        "slug": "/about/aboutme/"
+      }
+    },
     "5b7f9e5c-d310-5f8d-b38e-6a7d084a1058": {
       "id": "5b7f9e5c-d310-5f8d-b38e-6a7d084a1058",
       "children": [],
       "parent": "f3d29bf4-f4d8-5bbd-978e-4f944102d62f",
       "internal": {
-        "content": "\nSince I work for an IIoT combined hardware/sofware company, we often receive packages through the mail. This includes anything from dev boards to etched plastic enclosures. Now that we receive packages so often, it is not very easy to keep track of when a package is supposed to be arriving, and we don't always get notifications when items get held up in customs or get lost in the process. Once again APIs are here to save the day.\n\nIn the ideal scenario, we could create a Chrome extension with a trained machine learning algorithm that can detect whether a purchase has been made for a delivery, guess the delivery timeframe, store the delivery in a database, and automatically alert the user if today's date is later than the anticipated delivery date. However, even this scenario doesn't account for company purchases made with a purchase order system, which is why procurement teams exist.\n\nGiven that I am no genius, an idiot's backup to the system above is to use a slack slash command to automatically update a simple database, like a spreadsheet in Google Sheets for example. Then, using an incoming webhook, send an alert if it is past the delivery date for the package, triggered once every day to a channel, perhaps called #deliveryalerts. If there are no packages that are supposed to be delivered already, no alerts. \n\nWe can first create a simple spreadsheet database like this: \n![vendor-spreadsheet](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/vendor_spreadsheet.jpg)\nThis would show the item that is being delivered, the estimated delivery date, and a boolean Yes/No as to whether the item has been received.\n\nThen, we can create the #deliveryalerts channel in Slack, and integrate a Slack incoming webhook that points to #deliveryalerts and a slash command. In this case, we create one called /delivery. /delivery will send a post request to some endpoint that you need to define (a url). In our case, we can just use Google Apps script to set up this endpoint. Anything written after the /delivery command will be sent to the endpoint, and we can create the script to parse this text message using regular expressions (regex). Google Apps Script will handle the request through a doPost() function that you must write. Just take the spreadsheet that you want to set as your deliveries database, and on the Tools menu select script editor. Copy the `doPost()` example below into the Code.gs file.\n\n```javascript\n// Handle the Post request, based upon the command that is written after the slash command\nfunction doPost(e){\n  var commandReceived = e.parameter[\"text\"];\n\n  if (commandReceived.match(/help/)) showHelp();\t\t\t// showHelp() is run when slack user types: /delivery help\n  if (commandReceived.match(/list/)) listDeliveries();\n  if (commandReceived.match(/add/)) add(e);\n  if (commandReceived.match(/remove/)) remove(e);\t\t\t// remove(e) is run after slack user types: /delivery remove someItem\n  if (commandReceived.match(/received/)) received(e);\n  \n  // Need to create a return, otherwise slack will complain that there was no response created\n  var returnMessage = \"send complete\";\n  return ContentService.createTextOutput(JSON.stringify({text:returnMessage})).setMimeType(ContentService.MimeType.JSON);\n}\n```\n\nSlack complains if there is no return message, so I've also included just a simple \"send complete\" at the end of the `doPost()` function. Now, all you need to do is create the functions to handle each of the if statements in `doPost()`. An example of this function can be seen here, for marking a delivery as received. Notice that regular expressions are used to determine the format for the string that is attached to the slash command.\n\n~~~ javascript\nfunction received(e){\n  var receiver = e.parameter[\"user_name\"];\n  var messageReceived = e.parameter[\"text\"].trim();\n  var regex = /received ([a-zA-Z0-9-_\\s]+)/;\n  var matches = regex.exec(messageReceived);\n  var deliveryName = matches[1];\n  var sheet = getStatusSheet();\n  var affectedRow = getDeliveryRow(deliveryName);\n  \n  if (affectedRow) {\n    sheet.getRange(\"D\" + (affectedRow)).setValue('Y');\n    getLogger().log(\"%s received delivery %s\", receiver, deliveryName);\n    listDeliveries();\n  } else {\n    sendMessage(\"*\" + deliveryName + \"* delivery not found\");\n  }\n}\n~~~\n\nThen there's the timed triggers. To do this, I used a trigger function, which runs another function I made, querySpreadsheet, once every day. I also created a button on a html page to turn on/off this trigger.\n~~~ javascript\nfunction createTrigger() {\n  ScriptApp.newTrigger('querySpreadsheet')\n  .timeBased()\n  .everyDays(1)\n  .create()\n}\n~~~\n\nAnother note, I used BetterLog to create another spreadsheet tab that keeps track of the different actions users take with the app. This helps us know who received what package in case we need to track one down. You'll have to add the BetterLog library to your project.\n\nTo set everything up on the Slack end, login to <a href=\"https://api.slack.com/apps\">api.slack.com/apps</a>, create a new app, and Add features and functionality, adding Incoming Webhooks, Interactive Components, and Slash Commands. You will need to copy the incoming webhooks link into the Google Apps Script. \n\nThe full script is located in this github repository: <a href=\"https://github.com/simjxu/google_apps_scripts/tree/master/Slack-Delivery-Tracking\">Slack Delivery Tracking</a>  Be sure to change out the spreadsheet id to match the spreadsheet id of your Google sheets document (the long string in your Google Sheet URL), and change the incoming webhook link to the webhook link that you receive when you enable that feature on your slack apps. You might want to test by changing the `createTrigger()` function to be `.everyMinutes(1)` instead of `.everyDays(1)`.\n\nTo Do: to reduce time that it takes to read through the excel sheet, it's best to add within the trigger function something that places the received packages into some sort of archive spreadsheet tab. But alas, I already took too long to create this post. I can't take this long if I want to see rows of green squares on my github.\n\nUseful references: https://medium.com/@hopsor/building-a-slack-serverless-bot-with-google-apps-script-and-spreadsheets-35bdac755a44\n",
+        "content": "\nSince I work for an IIoT combined hardware/sofware company, we often receive packages through the mail. This includes anything from dev boards to etched plastic enclosures. Now that we receive packages so often, it is not very easy to keep track of when a package is supposed to be arriving, and we don't always get notifications when items get held up in customs or get lost in the process. Once again APIs are here to save the day.\n\nIn the ideal scenario, we could create a Chrome extension with a trained machine learning algorithm that can detect whether a purchase has been made for a delivery, guess the delivery timeframe, store the delivery in a database, and automatically alert the user if today's date is later than the anticipated delivery date. However, even this scenario doesn't account for company purchases made with a purchase order system, which is why procurement teams exist.\n\nGiven that I am no genius, an idiot's backup to the system above is to use a slack slash command to automatically update a simple database, like a spreadsheet in Google Sheets for example. Then, using an incoming webhook, send an alert if it is past the delivery date for the package, triggered once every day to a channel, perhaps called #deliveryalerts. If there are no packages that are supposed to be delivered already, no alerts. \n\nWe can first create a simple spreadsheet database like this: \n![vendor-spreadsheet](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/vendor_spreadsheet.jpg)\nThis would show the item that is being delivered, the estimated delivery date, and a boolean Yes/No as to whether the item has been received.\n\nThen, we can create the #deliveryalerts channel in Slack, and integrate a Slack incoming webhook that points to #deliveryalerts and a slash command. In this case, we create one called /delivery. /delivery will send a post request to some endpoint that you need to define (a url). In our case, we can just use Google Apps script to set up this endpoint. Anything written after the /delivery command will be sent to the endpoint, and we can create the script to parse this text message using regular expressions (regex). Google Apps Script will handle the request through a `doPost()` function that you must write. Just take the spreadsheet that you want to set as your deliveries database, and on the Tools menu select script editor. Copy the `doPost()` example below into the Code.gs file.\n\n```javascript\n// Handle the Post request, based upon the command that is written after the slash command\nfunction doPost(e){\n  var commandReceived = e.parameter[\"text\"];\n\n  if (commandReceived.match(/help/)) showHelp();\t\t\t// showHelp() is run when slack user types: /delivery help\n  if (commandReceived.match(/list/)) listDeliveries();\n  if (commandReceived.match(/add/)) add(e);\n  if (commandReceived.match(/remove/)) remove(e);\t\t\t// remove(e) is run after slack user types: /delivery remove someItem\n  if (commandReceived.match(/received/)) received(e);\n  \n  // Need to create a return, otherwise slack will complain that there was no response created\n  var returnMessage = \"send complete\";\n  return ContentService.createTextOutput(JSON.stringify({text:returnMessage})).setMimeType(ContentService.MimeType.JSON);\n}\n```\n\nSlack complains if there is no return message, so I've also included just a simple \"send complete\" at the end of the `doPost()` function. Now, all you need to do is create the functions to handle each of the if statements in `doPost()`. An example of this function can be seen here, for marking a delivery as received. Notice that regular expressions are used to determine the format for the string that is attached to the slash command.\n\n~~~ javascript\nfunction received(e){\n  var receiver = e.parameter[\"user_name\"];\n  var messageReceived = e.parameter[\"text\"].trim();\n  var regex = /received ([a-zA-Z0-9-_\\s]+)/;\n  var matches = regex.exec(messageReceived);\n  var deliveryName = matches[1];\n  var sheet = getStatusSheet();\n  var affectedRow = getDeliveryRow(deliveryName);\n  \n  if (affectedRow) {\n    sheet.getRange(\"D\" + (affectedRow)).setValue('Y');\n    getLogger().log(\"%s received delivery %s\", receiver, deliveryName);\n    listDeliveries();\n  } else {\n    sendMessage(\"*\" + deliveryName + \"* delivery not found\");\n  }\n}\n~~~\n\nThen there's the timed triggers. To do this, I used a trigger function, which runs another function I made, querySpreadsheet, once every day. I also created a button on a html page to turn on/off this trigger.\n~~~ javascript\nfunction createTrigger() {\n  ScriptApp.newTrigger('querySpreadsheet')\n  .timeBased()\n  .everyDays(1)\n  .create()\n}\n~~~\n\nAnother note, I used BetterLog to create another spreadsheet tab that keeps track of the different actions users take with the app. This helps us know who received what package in case we need to track one down. You'll have to add the BetterLog library to your project.\n\nTo set everything up on the Slack end, login to <a href=\"https://api.slack.com/apps\">api.slack.com/apps</a>, create a new app, and Add features and functionality, adding Incoming Webhooks, Interactive Components, and Slash Commands. You will need to copy the incoming webhooks link into the Google Apps Script. \n\nThe full script is located in this github repository: <a href=\"https://github.com/simjxu/google_apps_scripts/tree/master/Slack-Delivery-Tracking\">Slack Delivery Tracking</a>  Be sure to change out the spreadsheet id to match the spreadsheet id of your Google sheets document (the long string in your Google Sheet URL), and change the incoming webhook link to the webhook link that you receive when you enable that feature on your slack apps. You might want to test by changing the `createTrigger()` function to be `.everyMinutes(1)` instead of `.everyDays(1)`.\n\nTo Do: to reduce time that it takes to read through the excel sheet, it's best to add within the trigger function something that places the received packages into some sort of archive spreadsheet tab. But alas, I already took too long to create this post. I can't take this long if I want to see rows of green squares on my github.\n\nUseful references: https://medium.com/@hopsor/building-a-slack-serverless-bot-with-google-apps-script-and-spreadsheets-35bdac755a44\n",
         "type": "MarkdownRemark",
-        "contentDigest": "e1a1ac9a4f71834373d7d2be84b0aca1",
+        "contentDigest": "3032d66b6b5c19c0a68d25172b68ff8d",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -2187,10 +2351,182 @@
         "_PARENT": "f3d29bf4-f4d8-5bbd-978e-4f944102d62f"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\nSince I work for an IIoT combined hardware/sofware company, we often receive packages through the mail. This includes anything from dev boards to etched plastic enclosures. Now that we receive packages so often, it is not very easy to keep track of when a package is supposed to be arriving, and we don't always get notifications when items get held up in customs or get lost in the process. Once again APIs are here to save the day.\n\nIn the ideal scenario, we could create a Chrome extension with a trained machine learning algorithm that can detect whether a purchase has been made for a delivery, guess the delivery timeframe, store the delivery in a database, and automatically alert the user if today's date is later than the anticipated delivery date. However, even this scenario doesn't account for company purchases made with a purchase order system, which is why procurement teams exist.\n\nGiven that I am no genius, an idiot's backup to the system above is to use a slack slash command to automatically update a simple database, like a spreadsheet in Google Sheets for example. Then, using an incoming webhook, send an alert if it is past the delivery date for the package, triggered once every day to a channel, perhaps called #deliveryalerts. If there are no packages that are supposed to be delivered already, no alerts. \n\nWe can first create a simple spreadsheet database like this: \n![vendor-spreadsheet](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/vendor_spreadsheet.jpg)\nThis would show the item that is being delivered, the estimated delivery date, and a boolean Yes/No as to whether the item has been received.\n\nThen, we can create the #deliveryalerts channel in Slack, and integrate a Slack incoming webhook that points to #deliveryalerts and a slash command. In this case, we create one called /delivery. /delivery will send a post request to some endpoint that you need to define (a url). In our case, we can just use Google Apps script to set up this endpoint. Anything written after the /delivery command will be sent to the endpoint, and we can create the script to parse this text message using regular expressions (regex). Google Apps Script will handle the request through a doPost() function that you must write. Just take the spreadsheet that you want to set as your deliveries database, and on the Tools menu select script editor. Copy the `doPost()` example below into the Code.gs file.\n\n```javascript\n// Handle the Post request, based upon the command that is written after the slash command\nfunction doPost(e){\n  var commandReceived = e.parameter[\"text\"];\n\n  if (commandReceived.match(/help/)) showHelp();\t\t\t// showHelp() is run when slack user types: /delivery help\n  if (commandReceived.match(/list/)) listDeliveries();\n  if (commandReceived.match(/add/)) add(e);\n  if (commandReceived.match(/remove/)) remove(e);\t\t\t// remove(e) is run after slack user types: /delivery remove someItem\n  if (commandReceived.match(/received/)) received(e);\n  \n  // Need to create a return, otherwise slack will complain that there was no response created\n  var returnMessage = \"send complete\";\n  return ContentService.createTextOutput(JSON.stringify({text:returnMessage})).setMimeType(ContentService.MimeType.JSON);\n}\n```\n\nSlack complains if there is no return message, so I've also included just a simple \"send complete\" at the end of the `doPost()` function. Now, all you need to do is create the functions to handle each of the if statements in `doPost()`. An example of this function can be seen here, for marking a delivery as received. Notice that regular expressions are used to determine the format for the string that is attached to the slash command.\n\n~~~ javascript\nfunction received(e){\n  var receiver = e.parameter[\"user_name\"];\n  var messageReceived = e.parameter[\"text\"].trim();\n  var regex = /received ([a-zA-Z0-9-_\\s]+)/;\n  var matches = regex.exec(messageReceived);\n  var deliveryName = matches[1];\n  var sheet = getStatusSheet();\n  var affectedRow = getDeliveryRow(deliveryName);\n  \n  if (affectedRow) {\n    sheet.getRange(\"D\" + (affectedRow)).setValue('Y');\n    getLogger().log(\"%s received delivery %s\", receiver, deliveryName);\n    listDeliveries();\n  } else {\n    sendMessage(\"*\" + deliveryName + \"* delivery not found\");\n  }\n}\n~~~\n\nThen there's the timed triggers. To do this, I used a trigger function, which runs another function I made, querySpreadsheet, once every day. I also created a button on a html page to turn on/off this trigger.\n~~~ javascript\nfunction createTrigger() {\n  ScriptApp.newTrigger('querySpreadsheet')\n  .timeBased()\n  .everyDays(1)\n  .create()\n}\n~~~\n\nAnother note, I used BetterLog to create another spreadsheet tab that keeps track of the different actions users take with the app. This helps us know who received what package in case we need to track one down. You'll have to add the BetterLog library to your project.\n\nTo set everything up on the Slack end, login to <a href=\"https://api.slack.com/apps\">api.slack.com/apps</a>, create a new app, and Add features and functionality, adding Incoming Webhooks, Interactive Components, and Slash Commands. You will need to copy the incoming webhooks link into the Google Apps Script. \n\nThe full script is located in this github repository: <a href=\"https://github.com/simjxu/google_apps_scripts/tree/master/Slack-Delivery-Tracking\">Slack Delivery Tracking</a>  Be sure to change out the spreadsheet id to match the spreadsheet id of your Google sheets document (the long string in your Google Sheet URL), and change the incoming webhook link to the webhook link that you receive when you enable that feature on your slack apps. You might want to test by changing the `createTrigger()` function to be `.everyMinutes(1)` instead of `.everyDays(1)`.\n\nTo Do: to reduce time that it takes to read through the excel sheet, it's best to add within the trigger function something that places the received packages into some sort of archive spreadsheet tab. But alas, I already took too long to create this post. I can't take this long if I want to see rows of green squares on my github.\n\nUseful references: https://medium.com/@hopsor/building-a-slack-serverless-bot-with-google-apps-script-and-spreadsheets-35bdac755a44\n",
+      "rawMarkdownBody": "\nSince I work for an IIoT combined hardware/sofware company, we often receive packages through the mail. This includes anything from dev boards to etched plastic enclosures. Now that we receive packages so often, it is not very easy to keep track of when a package is supposed to be arriving, and we don't always get notifications when items get held up in customs or get lost in the process. Once again APIs are here to save the day.\n\nIn the ideal scenario, we could create a Chrome extension with a trained machine learning algorithm that can detect whether a purchase has been made for a delivery, guess the delivery timeframe, store the delivery in a database, and automatically alert the user if today's date is later than the anticipated delivery date. However, even this scenario doesn't account for company purchases made with a purchase order system, which is why procurement teams exist.\n\nGiven that I am no genius, an idiot's backup to the system above is to use a slack slash command to automatically update a simple database, like a spreadsheet in Google Sheets for example. Then, using an incoming webhook, send an alert if it is past the delivery date for the package, triggered once every day to a channel, perhaps called #deliveryalerts. If there are no packages that are supposed to be delivered already, no alerts. \n\nWe can first create a simple spreadsheet database like this: \n![vendor-spreadsheet](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/vendor_spreadsheet.jpg)\nThis would show the item that is being delivered, the estimated delivery date, and a boolean Yes/No as to whether the item has been received.\n\nThen, we can create the #deliveryalerts channel in Slack, and integrate a Slack incoming webhook that points to #deliveryalerts and a slash command. In this case, we create one called /delivery. /delivery will send a post request to some endpoint that you need to define (a url). In our case, we can just use Google Apps script to set up this endpoint. Anything written after the /delivery command will be sent to the endpoint, and we can create the script to parse this text message using regular expressions (regex). Google Apps Script will handle the request through a `doPost()` function that you must write. Just take the spreadsheet that you want to set as your deliveries database, and on the Tools menu select script editor. Copy the `doPost()` example below into the Code.gs file.\n\n```javascript\n// Handle the Post request, based upon the command that is written after the slash command\nfunction doPost(e){\n  var commandReceived = e.parameter[\"text\"];\n\n  if (commandReceived.match(/help/)) showHelp();\t\t\t// showHelp() is run when slack user types: /delivery help\n  if (commandReceived.match(/list/)) listDeliveries();\n  if (commandReceived.match(/add/)) add(e);\n  if (commandReceived.match(/remove/)) remove(e);\t\t\t// remove(e) is run after slack user types: /delivery remove someItem\n  if (commandReceived.match(/received/)) received(e);\n  \n  // Need to create a return, otherwise slack will complain that there was no response created\n  var returnMessage = \"send complete\";\n  return ContentService.createTextOutput(JSON.stringify({text:returnMessage})).setMimeType(ContentService.MimeType.JSON);\n}\n```\n\nSlack complains if there is no return message, so I've also included just a simple \"send complete\" at the end of the `doPost()` function. Now, all you need to do is create the functions to handle each of the if statements in `doPost()`. An example of this function can be seen here, for marking a delivery as received. Notice that regular expressions are used to determine the format for the string that is attached to the slash command.\n\n~~~ javascript\nfunction received(e){\n  var receiver = e.parameter[\"user_name\"];\n  var messageReceived = e.parameter[\"text\"].trim();\n  var regex = /received ([a-zA-Z0-9-_\\s]+)/;\n  var matches = regex.exec(messageReceived);\n  var deliveryName = matches[1];\n  var sheet = getStatusSheet();\n  var affectedRow = getDeliveryRow(deliveryName);\n  \n  if (affectedRow) {\n    sheet.getRange(\"D\" + (affectedRow)).setValue('Y');\n    getLogger().log(\"%s received delivery %s\", receiver, deliveryName);\n    listDeliveries();\n  } else {\n    sendMessage(\"*\" + deliveryName + \"* delivery not found\");\n  }\n}\n~~~\n\nThen there's the timed triggers. To do this, I used a trigger function, which runs another function I made, querySpreadsheet, once every day. I also created a button on a html page to turn on/off this trigger.\n~~~ javascript\nfunction createTrigger() {\n  ScriptApp.newTrigger('querySpreadsheet')\n  .timeBased()\n  .everyDays(1)\n  .create()\n}\n~~~\n\nAnother note, I used BetterLog to create another spreadsheet tab that keeps track of the different actions users take with the app. This helps us know who received what package in case we need to track one down. You'll have to add the BetterLog library to your project.\n\nTo set everything up on the Slack end, login to <a href=\"https://api.slack.com/apps\">api.slack.com/apps</a>, create a new app, and Add features and functionality, adding Incoming Webhooks, Interactive Components, and Slash Commands. You will need to copy the incoming webhooks link into the Google Apps Script. \n\nThe full script is located in this github repository: <a href=\"https://github.com/simjxu/google_apps_scripts/tree/master/Slack-Delivery-Tracking\">Slack Delivery Tracking</a>  Be sure to change out the spreadsheet id to match the spreadsheet id of your Google sheets document (the long string in your Google Sheet URL), and change the incoming webhook link to the webhook link that you receive when you enable that feature on your slack apps. You might want to test by changing the `createTrigger()` function to be `.everyMinutes(1)` instead of `.everyDays(1)`.\n\nTo Do: to reduce time that it takes to read through the excel sheet, it's best to add within the trigger function something that places the received packages into some sort of archive spreadsheet tab. But alas, I already took too long to create this post. I can't take this long if I want to see rows of green squares on my github.\n\nUseful references: https://medium.com/@hopsor/building-a-slack-serverless-bot-with-google-apps-script-and-spreadsheets-35bdac755a44\n",
       "fileAbsolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/slackdeliverytracker.md",
       "fields": {
         "slug": "/posts/slackdeliverytracker/"
+      }
+    },
+    "aa365d1e-fe95-50d1-a30b-b561e58bc1c5": {
+      "id": "aa365d1e-fe95-50d1-a30b-b561e58bc1c5",
+      "children": [],
+      "parent": "b8940ced-4c39-503b-9dcf-94e178db6154",
+      "internal": {
+        "content": "\nSorry, student driver, work in progress.\n\nContact me at simjxu@gmail.com\n\nClick <a href=\"https://drive.google.com/file/d/1Q0AotX0TWgyPH8cb4qUJzP86Df8tJu84/view\">here</a> for my resume. ",
+        "type": "MarkdownRemark",
+        "contentDigest": "3d9b89ff52aa4b7abc7fd487671cffff",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Contact the Author",
+        "layout": "contactpg",
+        "date": "",
+        "_PARENT": "b8940ced-4c39-503b-9dcf-94e178db6154"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nSorry, student driver, work in progress.\n\nContact me at simjxu@gmail.com\n\nClick <a href=\"https://drive.google.com/file/d/1Q0AotX0TWgyPH8cb4qUJzP86Df8tJu84/view\">here</a> for my resume. ",
+      "fileAbsolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about/contact.md",
+      "fields": {
+        "slug": "/about/contact/"
+      }
+    },
+    "30b13713-2689-55ae-a26c-26e46a5d00ab": {
+      "id": "30b13713-2689-55ae-a26c-26e46a5d00ab",
+      "children": [
+        "65963faa-ad90-55ba-8fe8-d1bb395d1f3c"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5815cf456d89866224742ad4aef73408",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/posts/graphql_filter.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/graphql_filter.md",
+      "relativePath": "pages/posts/graphql_filter.md",
+      "extension": "md",
+      "size": 1063,
+      "prettySize": "1.06 kB",
+      "modifiedTime": "2018-10-15T00:41:26.108Z",
+      "accessTime": "2018-10-15T00:41:26.108Z",
+      "changeTime": "2018-10-15T00:41:26.108Z",
+      "birthTime": "2018-10-15T00:41:26.108Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts",
+      "base": "graphql_filter.md",
+      "ext": ".md",
+      "name": "graphql_filter",
+      "relativeDirectory": "pages/posts",
+      "dev": 2053,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1052455,
+      "blocks": 8,
+      "atimeMs": 1539564086107.5073,
+      "mtimeMs": 1539564086107.5073,
+      "ctimeMs": 1539564086107.5073,
+      "birthtimeMs": 1539564086107.5073,
+      "atime": "2018-10-15T00:41:26.108Z",
+      "mtime": "2018-10-15T00:41:26.108Z",
+      "ctime": "2018-10-15T00:41:26.108Z",
+      "birthtime": "2018-10-15T00:41:26.108Z"
+    },
+    "65963faa-ad90-55ba-8fe8-d1bb395d1f3c": {
+      "id": "65963faa-ad90-55ba-8fe8-d1bb395d1f3c",
+      "children": [],
+      "parent": "30b13713-2689-55ae-a26c-26e46a5d00ab",
+      "internal": {
+        "content": "Yes, I made the switch to an uglier but more understandable home webpage. \n\nThe way I currently have my site set up, I have 3 main pages: first the homepage, which is on `index.js`, an `about.js` page, and a `contact.js` page. I may switch this later to have about and contact on the same page, and have a projects page instead.\n\nOn the `index.js` page, there is a GraphQL query, which filters what gets displayed on my index page. First, I look for all markdown files (files in my directory that are .md), and filter and sort it according layout and date, respectively. You can see that when I do `filter: { frontmatter: {layout: {eq: \"post\"}}}`, it uses a Sift syntax, which is used in MongoDB, to filter for all markdown files that have a layout entry in the frontmatter that is labeled \"post\". This is because I also have markdown files for my about, and contact pages, but I want to ensure only the ones that have \"post\" in the front matter get displayed.",
+        "type": "MarkdownRemark",
+        "contentDigest": "b12d657a7e70efd94e379176b22fa047",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "How to use GraphQL to choose what shows up on your page",
+        "layout": "post",
+        "date": "2018-10-14",
+        "_PARENT": "30b13713-2689-55ae-a26c-26e46a5d00ab"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Yes, I made the switch to an uglier but more understandable home webpage. \n\nThe way I currently have my site set up, I have 3 main pages: first the homepage, which is on `index.js`, an `about.js` page, and a `contact.js` page. I may switch this later to have about and contact on the same page, and have a projects page instead.\n\nOn the `index.js` page, there is a GraphQL query, which filters what gets displayed on my index page. First, I look for all markdown files (files in my directory that are .md), and filter and sort it according layout and date, respectively. You can see that when I do `filter: { frontmatter: {layout: {eq: \"post\"}}}`, it uses a Sift syntax, which is used in MongoDB, to filter for all markdown files that have a layout entry in the frontmatter that is labeled \"post\". This is because I also have markdown files for my about, and contact pages, but I want to ensure only the ones that have \"post\" in the front matter get displayed.",
+      "fileAbsolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/graphql_filter.md",
+      "fields": {
+        "slug": "/posts/graphql_filter/"
+      }
+    },
+    "b5d3ac7d-fa8b-5cbd-b2ec-5d7a52aa4848": {
+      "id": "b5d3ac7d-fa8b-5cbd-b2ec-5d7a52aa4848",
+      "children": [
+        "98e1d3bd-7c32-50c6-89ab-a61e4c6aac0b"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f51636b0184b4d0091da2270448be6e2",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/posts/2018-09-30-gatsby1.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/2018-09-30-gatsby1.md",
+      "relativePath": "pages/posts/2018-09-30-gatsby1.md",
+      "extension": "md",
+      "size": 2144,
+      "prettySize": "2.14 kB",
+      "modifiedTime": "2018-10-15T00:47:20.879Z",
+      "accessTime": "2018-10-15T00:47:20.887Z",
+      "changeTime": "2018-10-15T00:47:20.891Z",
+      "birthTime": "2018-10-15T00:47:20.891Z",
+      "root": "/",
+      "dir": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts",
+      "base": "2018-09-30-gatsby1.md",
+      "ext": ".md",
+      "name": "2018-09-30-gatsby1",
+      "relativeDirectory": "pages/posts",
+      "dev": 2053,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1052457,
+      "blocks": 8,
+      "atimeMs": 1539564440886.7615,
+      "mtimeMs": 1539564440878.7615,
+      "ctimeMs": 1539564440890.7615,
+      "birthtimeMs": 1539564440890.7615,
+      "atime": "2018-10-15T00:47:20.887Z",
+      "mtime": "2018-10-15T00:47:20.879Z",
+      "ctime": "2018-10-15T00:47:20.891Z",
+      "birthtime": "2018-10-15T00:47:20.891Z"
+    },
+    "98e1d3bd-7c32-50c6-89ab-a61e4c6aac0b": {
+      "id": "98e1d3bd-7c32-50c6-89ab-a61e4c6aac0b",
+      "children": [],
+      "parent": "b5d3ac7d-fa8b-5cbd-b2ec-5d7a52aa4848",
+      "internal": {
+        "content": "\nI'm currently in the process of converting this blog into a Gatsby blog, and I've spent a full day trying to get it working. Thankfully, they do seem to have good documentation on their website <a href=\"https://www.gatsbyjs.org/tutorial/\">Gatsby Tutorial</a>. The going is quite slow, and the results are also quite ugly, but after trying to figure out GraphQL and aggravating myself over backticks, at least I have something.\n![gatsby-1](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/gatsby1.jpg)\n\nI'll also push the gatsby version of this site onto github here: https://github.com/simjxu/gatsby-themush. You're probably wondering, what's the point of pushing something so useless onto github?  Well, my plan is to continue iterating on this Gatsby blog, and I also intend to litter the darn thing with comments. Hopefully this will help others understand the nuances of building a site. I don't have many comments yet, but stay tuned and I expect there to be more commentary than there is code.\n\nThe tutorial does a good job at helping you understand how GraphQL allows different page components to query particular items. One of the first uses of GraphQL is to swap out any mention of the website title with a `{data.site.siteMetadata.title}`. This does a page query to another file that must be titled gatsby-config.js to determine the website's metadata, like its title. This means that anytime a title is referenced, it queries the metadata. If the website title were to change at any point, then they can all be changed because of the query.\n\nAnother place where queries are used are for the blog posts. You can set GraphQL to automatically filter out any markdown file within your \"pages\" folder on Gatsby and list them on the homepage of the website. This is any file that ends in .md. To create that query that can point to the blogposts, you need to create a path to the location, and for some reason they call this a \"slug\". The page can then be created by using two Gatsby APIs, `onCreateNode` and `createPages`. \n\nTo be continued.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "321f9261ccead5ebb6a9f999e1524a27",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "How GraphQL is used in Gatsby",
+        "layout": "post",
+        "date": "2018-09-30T00:00:00.000Z",
+        "_PARENT": "b5d3ac7d-fa8b-5cbd-b2ec-5d7a52aa4848"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nI'm currently in the process of converting this blog into a Gatsby blog, and I've spent a full day trying to get it working. Thankfully, they do seem to have good documentation on their website <a href=\"https://www.gatsbyjs.org/tutorial/\">Gatsby Tutorial</a>. The going is quite slow, and the results are also quite ugly, but after trying to figure out GraphQL and aggravating myself over backticks, at least I have something.\n![gatsby-1](https://raw.githubusercontent.com/simjxu/simjxu.github.io/master/img/gatsby1.jpg)\n\nI'll also push the gatsby version of this site onto github here: https://github.com/simjxu/gatsby-themush. You're probably wondering, what's the point of pushing something so useless onto github?  Well, my plan is to continue iterating on this Gatsby blog, and I also intend to litter the darn thing with comments. Hopefully this will help others understand the nuances of building a site. I don't have many comments yet, but stay tuned and I expect there to be more commentary than there is code.\n\nThe tutorial does a good job at helping you understand how GraphQL allows different page components to query particular items. One of the first uses of GraphQL is to swap out any mention of the website title with a `{data.site.siteMetadata.title}`. This does a page query to another file that must be titled gatsby-config.js to determine the website's metadata, like its title. This means that anytime a title is referenced, it queries the metadata. If the website title were to change at any point, then they can all be changed because of the query.\n\nAnother place where queries are used are for the blog posts. You can set GraphQL to automatically filter out any markdown file within your \"pages\" folder on Gatsby and list them on the homepage of the website. This is any file that ends in .md. To create that query that can point to the blogposts, you need to create a path to the location, and for some reason they call this a \"slug\". The page can then be created by using two Gatsby APIs, `onCreateNode` and `createPages`. \n\nTo be continued.\n",
+      "fileAbsolutePath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/posts/2018-09-30-gatsby1.md",
+      "fields": {
+        "slug": "/posts/2018-09-30-gatsby1/"
       }
     },
     "SitePage /posts/goingclimbing/": {
@@ -2259,6 +2595,28 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /about/aboutme/": {
+      "jsonName": "about-aboutme-179",
+      "internalComponentName": "ComponentAboutAboutme",
+      "path": "/about/aboutme/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/about/aboutme/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "id": "SitePage /about/aboutme/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0b9ac7d71bb4bd2a2208f97381f01be4",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /posts/slackdeliverytracker/": {
       "jsonName": "posts-slackdeliverytracker-dfa",
       "internalComponentName": "ComponentPostsSlackdeliverytracker",
@@ -2277,6 +2635,72 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "415b0561cde255e195d92f488cdd13ff",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/contact/": {
+      "jsonName": "about-contact-9ee",
+      "internalComponentName": "ComponentAboutContact",
+      "path": "/about/contact/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/about/contact/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "id": "SitePage /about/contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "51b5edda52322a915f1ef1b1f06d9a55",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/graphql_filter/": {
+      "jsonName": "posts-graphql-filter-ed3",
+      "internalComponentName": "ComponentPostsGraphqlFilter",
+      "path": "/posts/graphql_filter/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/posts/graphql_filter/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "id": "SitePage /posts/graphql_filter/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4622139119147febc450dcf7eb4b2133",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/2018-09-30-gatsby1/": {
+      "jsonName": "posts-2018-09-30-gatsby-1-a12",
+      "internalComponentName": "ComponentPosts20180930Gatsby1",
+      "path": "/posts/2018-09-30-gatsby1/",
+      "component": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/posts/2018-09-30-gatsby1/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js",
+      "id": "SitePage /posts/2018-09-30-gatsby1/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5726f600d46efa10e418964256c3949d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2422,11 +2846,25 @@
       ],
       "5b7f9e5c-d310-5f8d-b38e-6a7d084a1058": [
         "/posts/slackdeliverytracker/"
+      ],
+      "f665c1a8-0640-5c18-80fa-31be06065530": [
+        "/about/aboutme/"
+      ],
+      "aa365d1e-fe95-50d1-a30b-b561e58bc1c5": [
+        "/about/contact/"
+      ],
+      "65963faa-ad90-55ba-8fe8-d1bb395d1f3c": [
+        "/posts/graphql_filter/"
+      ],
+      "98e1d3bd-7c32-50c6-89ab-a61e4c6aac0b": [
+        "/posts/2018-09-30-gatsby1/"
       ]
     },
     "connections": {
       "MarkdownRemark": [
-        "/"
+        "/",
+        "/contact/",
+        "/about/"
       ],
       "File": [
         "/my-files/"
@@ -2435,17 +2873,21 @@
   },
   "jsonDataPaths": {
     "sq--src-components-layout-js": 755544856,
-    "my-files-317": "591/path---my-files-317-4c7-FDPGmYQ7VifhFyrerEmsTd876Bs",
-    "index": "958/path---index-6a9-gdeA3JYpUpyPLmeHhVmHPaGJ1Fc",
+    "my-files-317": "757/path---my-files-317-4c7-gdJ2i8dQ9GjdRA0soIn36cdms4",
+    "index": "545/path---index-6a9-a7NW6weDW8iYNjZkiDwSePFbYls",
     "posts-goingclimbing-015": "93/path---posts-goingclimbing-015-fb4-eVppT35deniTbi8ZsuhxkGPo",
     "posts-googlecomputeengine-93b": "527/path---posts-googlecomputeengine-93-b-c19-rZV349IzkQz6CWPK3BoPSRM5pVk",
     "posts-mfgapp-3d3": "961/path---posts-mfgapp-3-d-3-a60-pLKlugvpxzbRCm6XAbQoewyKsMk",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
-    "posts-slackdeliverytracker-dfa": "8/path---posts-slackdeliverytracker-dfa-1fd-Pg9XcbA5AsBWXn1OkWdkBFEYoc0",
-    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
-    "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
-    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
+    "posts-slackdeliverytracker-dfa": "370/path---posts-slackdeliverytracker-dfa-1fd-FSHMV9IHEBK4WMpkZNq6yfftXG4",
+    "about-f34": "714/path---about-f-34-4c2-B0QuGZihkRBGA1kwcTvsa2aWIM",
+    "contact-26a": "92/path---contact-26-a-cd9-e191QhSXLOkBWYakVENJ4u0oPo",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "about-aboutme-179": "189/path---about-aboutme-179-4eb-fuvT3ZuX1oRkMupHc7vLRx50",
+    "about-contact-9ee": "385/path---about-contact-9-ee-c92-wvbNnoLyaf0TnyU87GSXemlARGc",
+    "posts-graphql-filter-ed3": "604/path---posts-graphql-filter-ed-3-716-BdOcso1nkZgYrKsBYy2b1nAs3U",
+    "posts-2018-09-30-gatsby-1-a12": "209/path---posts-2018-09-30-gatsby-1-a-12-71d-VljOcIe3VrgZyw5rOSi8Q7zyQ"
   },
   "components": {
     "/home/simon/Projects/Github-simjxu/gatsby-themush/src/templates/blog-post.js": {
@@ -2461,15 +2903,15 @@
       "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/404.js"
     },
     "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about.js": {
-      "query": "",
+      "query": "query homeSimonProjectsGithubSimjxuGatsbyThemushSrcPagesAboutJs3223437404 {\n  allMarkdownRemark(filter: {frontmatter: {layout: {eq: \"aboutpg\"}}}) {\n    edges {\n      node {\n        id\n        frontmatter {\n          title\n          date(formatString: \"DD MMM, YYYY\")\n        }\n        fields {\n          slug\n        }\n        html\n      }\n    }\n  }\n}\n",
       "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/about.js"
     },
     "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/contact.js": {
-      "query": "",
+      "query": "query homeSimonProjectsGithubSimjxuGatsbyThemushSrcPagesContactJs1116264600 {\n  allMarkdownRemark(filter: {frontmatter: {layout: {eq: \"contactpg\"}}}) {\n    edges {\n      node {\n        id\n        frontmatter {\n          title\n          date(formatString: \"DD MMM, YYYY\")\n        }\n        fields {\n          slug\n        }\n        html\n      }\n    }\n  }\n}\n",
       "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/contact.js"
     },
     "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/index.js": {
-      "query": "query homeSimonProjectsGithubSimjxuGatsbyThemushSrcPagesIndexJs1411931122 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    totalCount\n    edges {\n      node {\n        id\n        frontmatter {\n          title\n          date(formatString: \"DD MMM, YYYY\")\n        }\n        fields {\n          slug\n        }\n        excerpt\n      }\n    }\n  }\n}\n",
+      "query": "query homeSimonProjectsGithubSimjxuGatsbyThemushSrcPagesIndexJs4293685219 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {layout: {eq: \"post\"}}}) {\n    totalCount\n    edges {\n      node {\n        id\n        frontmatter {\n          title\n          date(formatString: \"DD MMM, YYYY\")\n        }\n        fields {\n          slug\n        }\n        excerpt\n        internal {\n          content\n        }\n      }\n    }\n  }\n}\n",
       "componentPath": "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/index.js"
     },
     "/home/simon/Projects/Github-simjxu/gatsby-themush/src/pages/my-files.js": {
