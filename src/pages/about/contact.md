@@ -1,7 +1,7 @@
 ---
 layout: contactpg
 title: Contact the Author
-date: ""
+date: "2018-10-14"
 ---
 
 Sorry, student driver, work in progress.

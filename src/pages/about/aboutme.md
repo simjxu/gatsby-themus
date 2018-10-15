@@ -1,7 +1,7 @@
 ---
 layout: aboutpg
 title: About Me
-date: ""
+date: "2018-10-14"
 ---
 
 I'm yet another experienced "professional" engineer who enjoys the outdoors and the occassional can of sparkling water. But really, who doesn't? I suppose what differentiates me is that I love doing comedy (improv, standup), and will never pass up an opportunity to hear myself talk. Also, I've made it one of my goals to win a lifetime supply of Chipotle burritos. If you ever wonder what my motives are, there it is.
