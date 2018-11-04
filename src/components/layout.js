@@ -7,6 +7,8 @@ import Header from './header'
 import './layout.css'
 
 const Layout = ({ children }) => (
+  // StaticQuery allows non-page components to retrieve GraphQL
+  // queries
   <StaticQuery
     query={graphql`
       query SiteTitleQuery {
@@ -39,7 +41,6 @@ const Layout = ({ children }) => (
         >
           {children}
         </div>
-        
       </>
     )}
   />

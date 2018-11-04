@@ -13,3 +13,9 @@ My free time involves a combination of programming side projects, comedy, rock c
 I started my engineering journey at UC Berkeley, where I specialized in Mech E. I began my first job out of college working for the US department of Defense, where I worked on naval weapons. Then transitioned to another facility where I worked on nuclear submarines, developing in-house software tools.
 
 I finally stopped working for the Feds after 4 years and transitioned to IoT, where I am now.
+
+### contact
+
+Contact me at simjxu@gmail.com
+
+Click <a href="https://drive.google.com/file/d/1Q0AotX0TWgyPH8cb4qUJzP86Df8tJu84/view">here</a> for my resume. 

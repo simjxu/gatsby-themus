@@ -1,8 +1,4 @@
-/**
- * Implement Gatsby's Node APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/node-apis/
- */
+// gatsby-source-filesystem has a function for creating slugs
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
