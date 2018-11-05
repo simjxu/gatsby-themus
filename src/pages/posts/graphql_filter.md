@@ -12,4 +12,8 @@ On the `index.js` page, there is a GraphQL query, which filters what gets displa
 
 One of the most useful things that comes with Gatsby when you do `gatsby develop` is that you get an in browser IDE called GraphiQL (prounounced "graphical", cute). This allows you to make all the graphQL filters you want, and see what it outputs. Super convenient, super easy. I love using Ctrl+Space in order to see what options I have available.
 
-In order to publish this on Github pages
+In order to publish this on Github pages you have to add a dependency, called gh-pages amd add at deploy script `"deploy": "gatsby build && gh-pages -d public -b master",` to your package.json file.
+
+Update 11/4/18:
+There was a bug similar to the one shown here: https://github.com/gatsbyjs/gatsby/issues/5734
+I rebuilt the website and as you can see, no longer any issue, although I'm not sure why. I didn't include Typography this time, but I suspect there was some sort of CSS in JS plugin that was not functioning properly.
