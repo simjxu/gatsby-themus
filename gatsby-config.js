@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'The Mush',
   },
-  pathPrefix: "/gatsby-themush",
+  pathPrefix: "/",
   plugins: [
     'gatsby-plugin-emotion',
     'gatsby-plugin-react-helmet',
