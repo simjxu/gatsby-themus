@@ -13,4 +13,4 @@ The tutorial does a good job at helping you understand how GraphQL allows differ
 
 Another place where queries are used are for the blog posts. You can set GraphQL to automatically filter out any markdown file within your "pages" folder on Gatsby and list them on the homepage of the website. This is any file that ends in .md. To create that query that can point to the blogposts, you need to create a path to the location, and for some reason they call this a "slug". The page can then be created by using two Gatsby APIs, `onCreateNode` and `createPages`. 
 
-To be continued.
+To be continued, SOON.
