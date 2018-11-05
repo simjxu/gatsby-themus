@@ -14,6 +14,10 @@ git checkout master
 git reset --hard <commit SHA>
 git push --force origin master
 
+Updating the website:
+> go to gatsby-themush
+> Make updates to the site there
+npm run deploy
 
 To Do:
 - Try out plugin Typography https://www.gatsbyjs.org/tutorial/part-two/
